@@ -7,14 +7,12 @@
 .. image:: https://badges.frapsoft.com/os/v2/open-source.svg?v=102
     :target: https://github.com/ellerbrock/open-source-badge/
 
-This repository aims to provide simple and ready-to-use tutorials for TensorFlow. The explanations are present in the wiki_ associated with this repository.
-
-Each tutorial includes ``source code`` and associated ``documentation``.
+This repository aims to provide simple and ready-to-use tutorials for TensorFlow.
+Each tutorial includes ``source code`` and most of them are associated with a ``documentation``.
 
 .. image:: _img/mainpage/TensorFlow_World.gif
 
 .. The links.
-.. _wiki: https://github.com/astorfi/TensorFlow-World/wiki
 .. _TensorFlow: https://www.tensorflow.org/install/
 
 #################
