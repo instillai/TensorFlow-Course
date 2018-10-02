@@ -324,3 +324,4 @@ Acknowledgement
 ================
 
 I have taken huge efforts in this project for hopefully being a small part of TensorFlow world. However, it would not have been plausible without the kind support and help of my friend and colleague `Domenick Poster <https://github.com/vonclites/>`_ for his valuable advices. He helped me for having a better understanding of TensorFlow and my special appreciation goes to him.
+I would also like to thanks `Hadi Kazemi <http://www.hadikazemi.com/>`_ for his contribution to this code for developing `Undercomplete Autoencoders Tutorial <docs/tutorials/3-neural_network/autoencoder>`_.
