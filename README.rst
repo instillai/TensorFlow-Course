@@ -276,8 +276,8 @@ Neural Networks
 .. _udercompleteautoencodercode: codes/3-neural_networks/undercomplete-autoencoder
 .. _Documentationauto: docs/tutorials/3-neural_network/autoencoder
 
-.. _RNN: codes/codes/3-neural_networks/recurrent-neural-networks/code/rnn.py
-.. _RNNIpython: codes/codes/3-neural_networks/recurrent-neural-networks/code/rnn.py
+.. _RNN: codes/3-neural_networks/recurrent-neural-networks/code/rnn.py
+.. _RNNIpython: codes/3-neural_networks/recurrent-neural-networks/code/rnn.py
 
 
 .. +---+---------------------------------------------+----------------------------------------+
