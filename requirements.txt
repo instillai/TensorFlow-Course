@@ -1,0 +1,9 @@
+numpy
+scipy
+python-coveralls
+tensorflow
+matplotlib
+xlrd
+scikit-learn
+pandas
+scikit-image
