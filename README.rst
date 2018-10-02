@@ -2,18 +2,10 @@
 ********************
 `TensorFlow Course`_
 ********************
-.. image:: https://travis-ci.org/astorfi/TensorFlow-World.svg?branch=master
-    :target: https://travis-ci.org/astorfi/TensorFlow-World
 .. image:: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
-    :target: https://github.com/astorfi/TensorFlow-World/issues
+    :target: https://github.com/open-source-for-science/TensorFlow-Course/pulls
 .. image:: https://badges.frapsoft.com/os/v2/open-source.svg?v=102
     :target: https://github.com/ellerbrock/open-source-badge/
-.. image:: https://coveralls.io/repos/github/astorfi/TensorFlow-World/badge.svg?branch=master
-    :target: https://coveralls.io/github/astorfi/TensorFlow-World?branch=master
-.. image:: https://zenodo.org/badge/86115145.svg
-   :target: https://zenodo.org/badge/latestdoi/86115145
-
-.. _TensorFlow World: http://tensorflow-world.readthedocs.io/en/latest/
 
 This repository aims to provide simple and ready-to-use tutorials for TensorFlow. The explanations are present in the wiki_ associated with this repository.
 
@@ -192,7 +184,7 @@ Neural Networks
 .. **Welcome**
 .. ~~~~~~~~~~~~
 
-.. The tutorial in this section is just a simple entrance to TensorFlow world.
+.. The tutorial in this section is just a simple entrance to TensorFlow.
 
 .. _welcomesourcecode: codes/0-welcome
 .. _Documentationcnnwelcome: docs/tutorials/0-welcome
