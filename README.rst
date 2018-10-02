@@ -77,9 +77,9 @@ TensorFlow Installation and Setup the Environment
    :scale: 50 %
    :alt: alternate text
    :align: right
-   :target: https://github.com/astorfi/TensorFlow-World/tree/master/docs/tutorials/installation
+   :target: docs/tutorials/installation
 
-.. _TensorFlow Installation: https://github.com/astorfi/TensorFlow-World/tree/master/docs/tutorials/installation
+.. _TensorFlow Installation: docs/tutorials/installation
 
 In order to install TensorFlow please refer to the following link:
 
@@ -191,9 +191,9 @@ Neural Networks
 
 .. The tutorial in this section is just a simple entrance to TensorFlow world.
 
-.. _welcomesourcecode: https://github.com/astorfi/TensorFlow-World/tree/master/codes/0-welcome
-.. _Documentationcnnwelcome: https://github.com/astorfi/TensorFlow-World/blob/master/docs/tutorials/0-welcome
-.. _ipythonwelcome: https://github.com/astorfi/TensorFlow-World/blob/master/codes/0-welcome/code/0-welcome.ipynb
+.. _welcomesourcecode: codes/0-welcome
+.. _Documentationcnnwelcome: docs/tutorials/0-welcome
+.. _ipythonwelcome: codes/0-welcome/code/0-welcome.ipynb
 
 
 
@@ -208,13 +208,13 @@ Neural Networks
 .. ~~~~~~~~~~
 .. These tutorials are related to basics of TensorFlow.
 
-.. _basicmathsourcecode: https://github.com/astorfi/TensorFlow-World/tree/master/codes/1-basics/basic_math_operations
-.. _Documentationbasicmath: https://github.com/astorfi/TensorFlow-World/blob/master/docs/tutorials/1-basics/basic_math_operations
-.. _ipythonbasicmath: https://github.com/astorfi/TensorFlow-World/blob/master/codes/1-basics/basic_math_operations/code/basic_math_operation.ipynb
+.. _basicmathsourcecode: codes/1-basics/basic_math_operations
+.. _Documentationbasicmath: docs/tutorials/1-basics/basic_math_operations
+.. _ipythonbasicmath: codes/1-basics/basic_math_operations/code/basic_math_operation.ipynb
 
-.. _ipythonvariabls: https://github.com/astorfi/TensorFlow-World/blob/master/codes/1-basics/variables/code/variables.ipynb
-.. _variablssourcecode: https://github.com/astorfi/TensorFlow-World/blob/master/codes/1-basics/variables/README.rst
-.. _Documentationvariabls: https://github.com/astorfi/TensorFlow-World/blob/master/docs/tutorials/1-basics/variables
+.. _ipythonvariabls: codes/1-basics/variables/code/variables.ipynb
+.. _variablssourcecode: codes/1-basics/variables/README.rst
+.. _Documentationvariabls: docs/tutorials/1-basics/variables
 
 
 .. +---+-----------------------------------------------------+-------------------------------------------------+
@@ -230,20 +230,20 @@ Neural Networks
 .. ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. We are going to present concepts of basic machine learning models and methods and show how to implement them in Tensorflow.
 
-.. _Linear Regression: https://github.com/astorfi/TensorFlow-World/tree/master/codes/2-basics_in_machine_learning/linear_regression
-.. _LinearRegressionipython: https://github.com/astorfi/TensorFlow-World/tree/master/codes/2-basics_in_machine_learning/linear_regression/code/linear_regression.ipynb
-.. _Documentationlr: https://github.com/astorfi/TensorFlow-World/blob/master/docs/tutorials/2-basics_in_machine_learning/linear_regression
+.. _Linear Regression: codes/2-basics_in_machine_learning/linear_regression
+.. _LinearRegressionipython: codes/2-basics_in_machine_learning/linear_regression/code/linear_regression.ipynb
+.. _Documentationlr: docs/tutorials/2-basics_in_machine_learning/linear_regression
 
-.. _Logistic Regression: https://github.com/astorfi/TensorFlow-World/tree/master/codes/2-basics_in_machine_learning/logistic_regression
-.. _LogisticRegressionipython: https://github.com/astorfi/TensorFlow-World/tree/master/codes/2-basics_in_machine_learning/logistic_regression/code/logistic_regression.ipynb
-.. _LogisticRegDOC: https://github.com/astorfi/TensorFlow-World/tree/master/docs/tutorials/2-basics_in_machine_learning/logistic_regression
+.. _Logistic Regression: codes/2-basics_in_machine_learning/logistic_regression
+.. _LogisticRegressionipython: codes/2-basics_in_machine_learning/logistic_regression/code/logistic_regression.ipynb
+.. _LogisticRegDOC: docs/tutorials/2-basics_in_machine_learning/logistic_regression
 
-.. _Linear SVM: https://github.com/astorfi/TensorFlow-World/tree/master/codes/2-basics_in_machine_learning/linear_svm
-.. _LinearSVMipython: https://github.com/astorfi/TensorFlow-World/tree/master/codes/2-basics_in_machine_learning/linear_svm/code/linear_svm.ipynb
+.. _Linear SVM: codes/2-basics_in_machine_learning/linear_svm
+.. _LinearSVMipython: codes/2-basics_in_machine_learning/linear_svm/code/linear_svm.ipynb
 
 
-.. _MultiClass Kernel SVM: https://github.com/astorfi/TensorFlow-World/blob/master/codes/2-basics_in_machine_learning/multiclass_svm
-.. _MultiClassKernelSVMipython: https://github.com/astorfi/TensorFlow-World/blob/master/codes/2-basics_in_machine_learning/multiclass_svm/code/multiclass_svm.ipynb
+.. _MultiClass Kernel SVM: codes/2-basics_in_machine_learning/multiclass_svm
+.. _MultiClassKernelSVMipython: codes/2-basics_in_machine_learning/multiclass_svm/code/multiclass_svm.ipynb
 
 
 .. +---+---------------------------------------------+----------------------------------------+
@@ -262,15 +262,15 @@ Neural Networks
 .. ~~~~~~~~~~~~~~~~~~~
 .. The tutorials in this section are related to neural network architectures.
 
-.. _Simple Convolutional Neural Networks: https://github.com/astorfi/TensorFlow-World/tree/master/codes/3-neural_networks/convolutional-neural-network
-.. _Documentationcnn: https://github.com/astorfi/TensorFlow-World/blob/master/docs/tutorials/3-neural_network/convolutiona_neural_network
+.. _Simple Convolutional Neural Networks: codes/3-neural_networks/convolutional-neural-network
+.. _Documentationcnn: docs/tutorials/3-neural_network/convolutiona_neural_network
 
-.. _Simple Multi Layer Perceptron: https://github.com/astorfi/TensorFlow-World/blob/master/codes/3-neural_networks/multi-layer-perceptron
-.. _MultiLayerPerceptronipython: https://github.com/astorfi/TensorFlow-World/blob/master/codes/3-neural_networks/multi-layer-perceptron/code/train_mlp.ipynb
+.. _Simple Multi Layer Perceptron: codes/3-neural_networks/multi-layer-perceptron
+.. _MultiLayerPerceptronipython: codes/3-neural_networks/multi-layer-perceptron/code/train_mlp.ipynb
 
 
-.. _udercompleteautoencodercode: https://github.com/astorfi/TensorFlow-World/tree/master/codes/3-neural_networks/undercomplete-autoencoder
-.. _Documentationauto: https://github.com/astorfi/TensorFlow-World/tree/master/docs/tutorials/3-neural_network/autoencoder
+.. _udercompleteautoencodercode: codes/3-neural_networks/undercomplete-autoencoder
+.. _Documentationauto: docs/tutorials/3-neural_network/autoencoder
 
 .. +---+---------------------------------------------+----------------------------------------+
 .. | # |          Source Code                        |                                        |
