@@ -1,6 +1,6 @@
 
 ********************
-`TensorFlow World`_
+`TensorFlow Course`_
 ********************
 .. image:: https://travis-ci.org/astorfi/TensorFlow-World.svg?branch=master
     :target: https://travis-ci.org/astorfi/TensorFlow-World
@@ -184,6 +184,9 @@ Neural Networks
 +----+-----------------------------------+-----------------------------------------------------------------------------------------------+----------------------------------------------+
 | 10 | *Autoencoders*                    | `Undercomplete Autoencoder <udercompleteautoencodercode_>`_                                   |       `Documentation <Documentationauto_>`_  |
 +----+-----------------------------------+-----------------------------------------------------------------------------------------------+----------------------------------------------+
+| 10 | *RNN*                             | `RNN`_  / `IPython <RNNIpython_>`_                                                            |                                              |
++----+-----------------------------------+-----------------------------------------------------------------------------------------------+----------------------------------------------+
+
 
 .. ~~~~~~~~~~~~
 .. **Welcome**
@@ -256,6 +259,7 @@ Neural Networks
 .. | 3 |    `Linear SVM`_                            |                                        |
 .. +---+---------------------------------------------+----------------------------------------+
 .. | 4 |    `MultiClass Kernel SVM`_                 |                                        |
+.. +---+---------------------------------------------+----------------------------------------+
 
 .. ~~~~~~~~~~~~~~~~~~~
 .. **Neural Networks**
@@ -271,6 +275,10 @@ Neural Networks
 
 .. _udercompleteautoencodercode: codes/3-neural_networks/undercomplete-autoencoder
 .. _Documentationauto: docs/tutorials/3-neural_network/autoencoder
+
+.. _RNN: codes/codes/3-neural_networks/recurrent-neural-networks/code/rnn.py
+.. _RNNIpython: codes/codes/3-neural_networks/recurrent-neural-networks/code/rnn.py
+
 
 .. +---+---------------------------------------------+----------------------------------------+
 .. | # |          Source Code                        |                                        |

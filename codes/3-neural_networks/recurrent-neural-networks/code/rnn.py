@@ -1,14 +1,3 @@
-'''
-MNIST using Recurrent Neural Network to predict handwritten digits
-In this tutorial, I am going to demonstrate how to use recurrent neural 
-network to predict the famous handwritten digits "MNIST".
-The MNIST dataset consists:
-mnist.train: 55000 training images
-mnist.validation: 5000 validation images
-mnist.test: 10000 test images
-Each image is 28 pixels (rows) by 28 pixels (cols).
-'''
-
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
@@ -25,23 +14,23 @@ parser = argparse.ArgumentParser(description='Creating Classifier')
 # Optimization Flags #
 ######################
 
-parser.add_argument('--learning_rate', default=0.001, type=float, help='initial learning rate')
-parser.add_argument('--seed', default=111, type=int, help='seed')
+tf.app.flags.DEFINE_float('learning_rate', default=0.001, help='initial learning rate')
+tf.app.flags.DEFINE_integer('seed', default=111, help='seed')
 
 ##################
 # Training Flags #
 ##################
-parser.add_argument('--batch_size', default=128, type=int, help='Batch size for training')
-parser.add_argument('--num_epoch', default=10, type=int, help='Number of training iterations')
-parser.add_argument('--batch_per_log', default=10, type=int, help='Print the log at what number of batches?')
+tf.app.flags.DEFINE_integer('batch_size', default=128, help='Batch size for training')
+tf.app.flags.DEFINE_integer('num_epoch', default=10, help='Number of training iterations')
+tf.app.flags.DEFINE_integer('batch_per_log', default=10, help='Print the log at what number of batches?')
 
 ###############
 # Model Flags #
 ###############
-parser.add_argument('--hidden_size', default=128, type=int, help='Number of neurons for RNN hodden layer')
+tf.app.flags.DEFINE_integer('hidden_size', default=128, help='Number of neurons for RNN hodden layer')
 
-# Add all arguments to parser
-args = parser.parse_args()
+# Store all elemnts in FLAG structure!
+args = tf.app.flags.FLAGS
 
 
 # Reset the graph set the random numbers to be the same using "seed"
