@@ -83,7 +83,7 @@ done upon them over the graph, must be initialized or restored from
 saved variables. This only allows us to realize how we can initialize
 specific variables by hand.
 
-Golobal variable initialization
+Global variable initialization
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 All variables can be initialized at once using the
@@ -103,7 +103,7 @@ Both the above methods are identical. We only provide the second one to
 demonstrate that the ``tf.global_variables_initializer()`` is nothing
 but ``tf.variables_initializer`` when you yield all the variables as the input argument.
 
-Initilization of a variables using other existing variables
+Initialization of a variables using other existing variables
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 New variables can be initialized using other existing variables' initial
