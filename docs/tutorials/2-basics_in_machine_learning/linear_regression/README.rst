@@ -38,7 +38,7 @@ In order to train the model, the TensorFlow loops through the data and
 it should find the optimal line (as we have a linear model) that fits
 the data. The linear relationship between two variables of X, Y is
 estimated by designing an appropriate optimization problem for which the requirement
- is a proper loss function. The dataset is available from the
+is a proper loss function. The dataset is available from the
 `Stanford course CS
 20SI <http://web.stanford.edu/class/cs20si/index.html>`__: TensorFlow
 for Deep Learning Research.
