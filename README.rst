@@ -10,7 +10,7 @@
 This repository aims to provide simple and ready-to-use tutorials for TensorFlow.
 Each tutorial includes ``source code`` and most of them are associated with a ``documentation``.
 
-.. image:: _img/mainpage/TensorFlow_World.gif
+.. .. image:: _img/mainpage/TensorFlow_World.gif
 
 .. The links.
 .. _TensorFlow: https://www.tensorflow.org/install/
