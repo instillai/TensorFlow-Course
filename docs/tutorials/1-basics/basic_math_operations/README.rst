@@ -78,7 +78,7 @@ The ``session``, which is the environment for running the operations, is execute
     # Run the session
     with tf.Session() as sess:
         writer = tf.summary.FileWriter(os.path.expanduser(FLAGS.log_dir), sess.graph)
-        print("output: ", sess.run(welcome))
+        print("output: ", sess.run([a,b,x,y]))
 
     # Closing the writer.
     writer.close()
@@ -94,11 +94,7 @@ The results for running in the terminal is as bellow:
 
 .. code:: shell
 
-        a = 5.0
-        b = 10.0
-        a + b = 15.0
-        a/b = 0.5
-
+        [5.0, 10.0, 15.0, 0.5]
 
 
 If we run the Tensorboard using ``tensorboard --logdir="absolute/path/to/log_dir"`` we get the following when visualiaing the ``Graph``:
