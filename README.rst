@@ -170,11 +170,11 @@ Neural Networks
 +====+===================================+===============================================================================================+==============================================+
 | 8  | *Multi Layer Perceptron*          |`Simple Multi Layer Perceptron`_   / `IPython <MultiLayerPerceptronipython_>`_                 |                                              |
 +----+-----------------------------------+-----------------------------------------------------------------------------------------------+----------------------------------------------+
-| 9  | *Convolutional Neural Networks*   | `Simple Convolutional Neural Networks`_                                                       |       `Documentation <Documentationcnn_>`_   |
+| 9  | *Convolutional Neural Network*   | `Simple Convolutional Neural Networks`_                                                       |       `Documentation <Documentationcnn_>`_   |
 +----+-----------------------------------+-----------------------------------------------------------------------------------------------+----------------------------------------------+
-| 10 | *Autoencoders*                    | `Undercomplete Autoencoder <udercompleteautoencodercode_>`_                                   |       `Documentation <Documentationauto_>`_  |
+| 10 | *Autoencoder*                    | `Undercomplete Autoencoder <udercompleteautoencodercode_>`_                                   |       `Documentation <Documentationauto_>`_  |
 +----+-----------------------------------+-----------------------------------------------------------------------------------------------+----------------------------------------------+
-| 11 | *Recurrent Neural Networks*       | `RNN`_  / `IPython <RNNIpython_>`_                                                            |                                              |
+| 11 | *Recurrent Neural Network*       | `RNN`_  / `IPython <RNNIpython_>`_                                                            |                                              |
 +----+-----------------------------------+-----------------------------------------------------------------------------------------------+----------------------------------------------+
 
 
