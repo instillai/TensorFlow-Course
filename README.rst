@@ -14,6 +14,7 @@ Each tutorial includes ``source code`` and most of them are associated with a ``
 
 .. The links.
 .. _TensorFlow: https://www.tensorflow.org/install/
+.. _Wikipedia: https://en.wikipedia.org/wiki/TensorFlow/
 
 #################
 Table of Contents
@@ -21,6 +22,15 @@ Table of Contents
 .. contents::
   :local:
   :depth: 3
+
+~~~~~~~~~~~~~~~~~~~~~
+What is TensorFlow?
+~~~~~~~~~~~~~~~~~~~~~
+TensorFlow is an open-source software library for dataflow programming across a range of tasks. It is a symbolic math library, and is also used for machine learning applications such as neural networks. It is used for both research and production at Google often replacing its closed-source predecessor, DistBelief.
+
+TensorFlow was developed by the Google Brain team for internal Google use. It was released under the Apache 2.0 open source license on November 9, 2015.
+
+The current stable release as of September 27, 2018 is 1.11.0
 
 ============
 Motivation
