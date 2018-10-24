@@ -7,3 +7,4 @@ xlrd
 scikit-learn
 pandas
 scikit-image
+seaborn
