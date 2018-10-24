@@ -33,7 +33,7 @@ TensorFlow was developed by the Google Brain team for internal Google use. It wa
 The current stable release as of September 27, 2018 is 1.11.0
 
 ============
-Motivation
+asaasdcaedevaev
 ============
 
 There are different motivations for this open source project. TensorFlow (as we write this document) is one of / the best deep learning frameworks available. The question that should be asked is why has this repository been created when there are so many other tutorials about TensorFlow available on the web?
