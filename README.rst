@@ -182,9 +182,7 @@ Neural Networks
 +----+-----------------------------------+-----------------------------------------------------------------------------------------------+----------------------------------------------+
 | 9  | *Convolutional Neural Network*    | `Simple Convolutional Neural Networks`_                                                       |       `Documentation <Documentationcnn_>`_   |
 +----+-----------------------------------+-----------------------------------------------------------------------------------------------+----------------------------------------------+
-| 10 | *Autoencoder*                     | `Undercomplete Autoencoder <udercompleteautoencodercode_>`_                                   |       `Documentation <Documentationauto_>`_  |
-+----+-----------------------------------+-----------------------------------------------------------------------------------------------+----------------------------------------------+
-| 11 | *Recurrent Neural Network*        | `RNN`_  / `IPython <RNNIpython_>`_                                                            |                                              |
+| 10 | *Recurrent Neural Network*        | `RNN`_  / `IPython <RNNIpython_>`_                                                            |                                              |
 +----+-----------------------------------+-----------------------------------------------------------------------------------------------+----------------------------------------------+
 
 .. ~~~~~~~~~~~~
@@ -270,10 +268,6 @@ Neural Networks
 
 .. _Simple Multi Layer Perceptron: codes/3-neural_networks/multi-layer-perceptron
 .. _MultiLayerPerceptronipython: codes/3-neural_networks/multi-layer-perceptron/code/train_mlp.ipynb
-
-
-.. _udercompleteautoencodercode: codes/3-neural_networks/undercomplete-autoencoder
-.. _Documentationauto: docs/tutorials/3-neural_network/autoencoder
 
 .. _RNN: codes/3-neural_networks/recurrent-neural-networks/code/rnn.py
 .. _RNNIpython: codes/3-neural_networks/recurrent-neural-networks/code/rnn.py
