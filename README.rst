@@ -210,7 +210,7 @@ Neural Networks
 
 .. _basicmathsourcecode: codes/python/1-basics/basic_math_operations
 .. _Documentationbasicmath: docs/tutorials/1-basics/basic_math_operations
-.. _ipythonbasicmath: codes/python/1-basics/basic_math_operations/code/basic_math_operation.ipynb
+.. _ipythonbasicmath: codes/ipython/1-basics/basic_math_operations/code/basic_math_operation.ipynb
 
 .. _ipythonvariabls: codes/ipython/1-basics/variables/code/variables.ipynb
 .. _variablssourcecode: codes/python/1-basics/variables/README.rst
