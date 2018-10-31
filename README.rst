@@ -191,9 +191,9 @@ Neural Networks
 
 .. The tutorial in this section is just a simple entrance to TensorFlow.
 
-.. _welcomesourcecode: codes/0-welcome
+.. _welcomesourcecode: codes/python/0-welcome
 .. _Documentationcnnwelcome: docs/tutorials/0-welcome
-.. _ipythonwelcome: codes/0-welcome/code/0-welcome.ipynb
+.. _ipythonwelcome: codes/ipython/0-welcome/code/0-welcome.ipynb
 
 
 
@@ -208,12 +208,12 @@ Neural Networks
 .. ~~~~~~~~~~
 .. These tutorials are related to basics of TensorFlow.
 
-.. _basicmathsourcecode: codes/1-basics/basic_math_operations
+.. _basicmathsourcecode: codes/python/1-basics/basic_math_operations
 .. _Documentationbasicmath: docs/tutorials/1-basics/basic_math_operations
-.. _ipythonbasicmath: codes/1-basics/basic_math_operations/code/basic_math_operation.ipynb
+.. _ipythonbasicmath: codes/python/1-basics/basic_math_operations/code/basic_math_operation.ipynb
 
-.. _ipythonvariabls: codes/1-basics/variables/code/variables.ipynb
-.. _variablssourcecode: codes/1-basics/variables/README.rst
+.. _ipythonvariabls: codes/ipython/1-basics/variables/code/variables.ipynb
+.. _variablssourcecode: codes/python/1-basics/variables/README.rst
 .. _Documentationvariabls: docs/tutorials/1-basics/variables
 
 
@@ -230,20 +230,20 @@ Neural Networks
 .. ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. We are going to present concepts of basic machine learning models and methods and show how to implement them in Tensorflow.
 
-.. _Linear Regression: codes/2-basics_in_machine_learning/linear_regression
-.. _LinearRegressionipython: codes/2-basics_in_machine_learning/linear_regression/code/linear_regression.ipynb
+.. _Linear Regression: codes/python/2-basics_in_machine_learning/linear_regression
+.. _LinearRegressionipython: codes/ipython/2-basics_in_machine_learning/linear_regression/code/linear_regression.ipynb
 .. _Documentationlr: docs/tutorials/2-basics_in_machine_learning/linear_regression
 
-.. _Logistic Regression: codes/2-basics_in_machine_learning/logistic_regression
-.. _LogisticRegressionipython: codes/2-basics_in_machine_learning/logistic_regression/code/logistic_regression.ipynb
+.. _Logistic Regression: codes/python/2-basics_in_machine_learning/logistic_regression
+.. _LogisticRegressionipython: codes//ipython/2-basics_in_machine_learning/logistic_regression/code/logistic_regression.ipynb
 .. _LogisticRegDOC: docs/tutorials/2-basics_in_machine_learning/logistic_regression
 
-.. _Linear SVM: codes/2-basics_in_machine_learning/linear_svm
-.. _LinearSVMipython: codes/2-basics_in_machine_learning/linear_svm/code/linear_svm.ipynb
+.. _Linear SVM: codes/python/2-basics_in_machine_learning/linear_svm
+.. _LinearSVMipython: codes//ipython/2-basics_in_machine_learning/linear_svm/code/linear_svm.ipynb
 
 
-.. _MultiClass Kernel SVM: codes/2-basics_in_machine_learning/multiclass_svm
-.. _MultiClassKernelSVMipython: codes/2-basics_in_machine_learning/multiclass_svm/code/multiclass_svm.ipynb
+.. _MultiClass Kernel SVM: codes/python/2-basics_in_machine_learning/multiclass_svm
+.. _MultiClassKernelSVMipython: codes/ipython/2-basics_in_machine_learning/multiclass_svm/code/multiclass_svm.ipynb
 
 
 .. +---+---------------------------------------------+----------------------------------------+
@@ -266,11 +266,11 @@ Neural Networks
 .. _Simple Convolutional Neural Networks: codes/3-neural_networks/convolutional-neural-network
 .. _Documentationcnn: docs/tutorials/3-neural_network/convolutiona_neural_network
 
-.. _Simple Multi Layer Perceptron: codes/3-neural_networks/multi-layer-perceptron
-.. _MultiLayerPerceptronipython: codes/3-neural_networks/multi-layer-perceptron/code/train_mlp.ipynb
+.. _Simple Multi Layer Perceptron: codes/python/3-neural_networks/multi-layer-perceptron
+.. _MultiLayerPerceptronipython: codes/ipython/3-neural_networks/multi-layer-perceptron/code/train_mlp.ipynb
 
-.. _RNN: codes/3-neural_networks/recurrent-neural-networks/code/rnn.py
-.. _RNNIpython: codes/3-neural_networks/recurrent-neural-networks/code/rnn.py
+.. _RNN: codes/python/3-neural_networks/recurrent-neural-networks/code/rnn.py
+.. _RNNIpython: codes/ipython/3-neural_networks/recurrent-neural-networks/code/rnn.ipynb
 
 
 .. +---+---------------------------------------------+----------------------------------------+
