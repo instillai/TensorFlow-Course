@@ -263,7 +263,7 @@ Neural Networks
 .. ~~~~~~~~~~~~~~~~~~~
 .. The tutorials in this section are related to neural network architectures.
 
-.. _Simple Convolutional Neural Networks: codes/3-neural_networks/convolutional-neural-network
+.. _Simple Convolutional Neural Networks: codes/python/3-neural_networks/convolutional-neural-network
 .. _Documentationcnn: docs/tutorials/3-neural_network/convolutiona_neural_network
 
 .. _Simple Multi Layer Perceptron: codes/python/3-neural_networks/multi-layer-perceptron
