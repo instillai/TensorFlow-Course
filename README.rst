@@ -6,7 +6,7 @@
     :target: https://github.com/open-source-for-science/TensorFlow-Course/pulls
 .. image:: https://badges.frapsoft.com/os/v2/open-source.svg?v=102
     :target: https://github.com/ellerbrock/open-source-badge/  
-.. image:: https://img.shields.io/twitter/follow/espadrine.svg?label=Follow&style=social
+.. image:: https://img.shields.io/twitter/follow/osforscience.svg?label=Follow&style=social
     :target: https://twitter.com/osforscience
 
 
