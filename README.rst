@@ -1,4 +1,4 @@
-.. image:: _img/mainpage/twitter-follow.gif
+.. image:: _img/mainpage/follow-twitter.gif
    :height: 100px
    :width: 200 px
    :scale: 50 %
