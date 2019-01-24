@@ -75,7 +75,7 @@ TensorFlow to only initialize a certain variable. The script is as follows
     variable_list_custom = [weights, custom_variable]
 
     # The initializer
-    init_custom_op = tf.variables_initializer(var_list=all_variables_list)
+    init_custom_op = tf.variables_initializer(var_list=variable_list_custom)
 
 Noted that custom initialization does not mean that we don't need to
 initialize other variables! All variables that some operations will be
