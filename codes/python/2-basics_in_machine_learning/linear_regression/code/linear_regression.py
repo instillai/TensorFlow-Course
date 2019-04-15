@@ -78,7 +78,7 @@ with tf.Session() as sess:
     train_op = train(train_loss)
 
     # Step 8: train the model
-    for epoch_num in range(FLAGS.num_epochs): # run 100 epochs
+    for epoch_num in range(FLAGS.num_epochs): # run 50 epochs
         loss_value, _ = sess.run([train_loss,train_op],
                                  feed_dict={X: data[:,0], Y: data[:,1]})
 
