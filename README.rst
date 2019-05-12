@@ -1,5 +1,5 @@
 
-.. figure:: _img/mainpage/teaser.png
+.. figure:: _img/mainpage/teaser.gif
   :target: https://machinelearningmindset.com/blog/
   
 .. figure:: _img/mainpage/subscribe.png
