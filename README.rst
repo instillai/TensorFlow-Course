@@ -331,6 +331,20 @@ We are looking forward to your kind feedback. Please help us to improve this ope
 For contribution, please create a pull request and we will investigate it promptly. Once again, we appreciate
 your kind feedback and elaborate code inspections.
 
+========================
+Developers
+========================
+
+**Creator**: Machine Learning Mindset [`Blog
+<https://machinelearningmindset.com/blog/>`_, `GitHub
+<https://github.com/machinelearningmindset>`_, `Twitter
+<https://twitter.com/machinemindset>`_]
+
+**Developer**: Amirsina Torfi [`GitHub
+<https://github.com/astorfi>`_, `Personal Website
+<https://astorfi.github.io/>`_, `Linkedin
+<https://www.linkedin.com/in/amirsinatorfi/>`_ ]
+
 ================
 Acknowledgement
 ================
