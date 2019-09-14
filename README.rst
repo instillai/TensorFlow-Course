@@ -300,6 +300,24 @@ Some Useful Tutorials
   * `Terry Um’s TensorFlow Exercises <https://github.com/terryum/TensorFlow_Exercises>`_ - Re-create the codes from other TensorFlow examples
   * `Classification on time series <https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition>`_ - Recurrent Neural Network classification in TensorFlow with LSTM on cellphone sensor data
 
+==========================================
+Download Free TensorFlow Roadmap EBook
+==========================================
+
+.. raw:: html
+
+   <div align="center">
+
+.. raw:: html
+
+ <a href="http://www.machinelearningmindset.com/tensorflow-roadmap-ebook/" target="_blank">
+  <img width="850" height="600" align="center" src="https://github.com/machinelearningmindset/TensorFlow-Roadmap/blob/master/_img/mainpage/booksubscribe.png"/>
+ </a>
+
+.. raw:: html
+
+   </div>
+
 =============
 Contributing
 =============
