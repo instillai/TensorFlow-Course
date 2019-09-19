@@ -197,9 +197,6 @@ There are different types of variance-scaling initializers. The one we
 used in is the one proposed by the paper `Understanding the difficulty
 of training deep feedforward neural
 networks <http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf>`__
-and provided by the TensorFlow. is the one proposed by the paper
-`Understanding the difficulty of training deep feedforward neural
-networks <http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf>`__
 and provided by the TensorFlow.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -489,7 +486,7 @@ get back to it in another post.
 
 The image summaries are created which has the duty of
 visualizing the input elements to the summary tensor. These elements here
-are 3 random images from the train data. In The outputs of different layers will be fed to the relevant summary tensor.
+are 3 random images from the train data. In the outputs of different layers will be fed to the relevant summary tensor.
 Finally, some scalar summaries are created in order
 to track the *training convergence* and *testing performance*. The
 collections argument in summary definitions is a supervisor which direct
