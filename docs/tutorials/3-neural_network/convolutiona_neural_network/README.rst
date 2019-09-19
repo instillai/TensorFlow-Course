@@ -257,7 +257,7 @@ because when the input size of the convolutional layer equals to its
 kernel size and 'VALID' pooling is used, the output is only one single
 neuron if the number of output feature map equals to 1. So if the number
 of output feature maps is equals to 1024, this layer operates like and
-filly-connected layer with 1024 output hidden units!
+fully-connected layer with 1024 output hidden units!
 
 ~~~~~~~~~~~~~
 Dropout Layer
