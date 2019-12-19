@@ -22,6 +22,29 @@ Each tutorial includes ``source code`` and most of them are associated with a ``
 .. _TensorFlow: https://www.tensorflow.org/install/
 .. _Wikipedia: https://en.wikipedia.org/wiki/TensorFlow/
 
+
+If you find this project useful, please kindly consider citing it as follows:
+
+.. code:: shell
+
+    @software{amirsina_torfi_2019_3585756,
+      author       = {Amirsina Torfi and
+                      Quinn H Koike and
+                      imgg and
+                      brian and
+                      avinassh and
+                      Joe HUANG and
+                      Brandon Banks},
+      title        = {{machinelearningmindset/TensorFlow-Course: 
+                       TensorFlow Course}},
+      month        = dec,
+      year         = 2019,
+      publisher    = {Zenodo},
+      version      = {1.0},
+      doi          = {10.5281/zenodo.3585756},
+      url          = {https://doi.org/10.5281/zenodo.3585756}
+    }
+
 #################
 Table of Contents
 #################
