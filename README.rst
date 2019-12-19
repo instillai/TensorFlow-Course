@@ -9,6 +9,8 @@
     :target: https://github.com/ellerbrock/open-source-badge/
 .. image:: https://img.shields.io/twitter/follow/machinemindset.svg?label=Follow&style=social
     :target: https://twitter.com/machinemindset
+.. image:: https://zenodo.org/badge/151300862.svg
+   :target: https://zenodo.org/badge/latestdoi/151300862
 
 
 This repository aims to provide simple and ready-to-use tutorials for TensorFlow.
