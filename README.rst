@@ -280,7 +280,7 @@ Neural Networks
 
 .. _Linear Regression: codes/python/2-basics_in_machine_learning/linear_regression
 .. _LinearRegressionipython: codes/ipython/2-basics_in_machine_learning/linear_regression/code/linear_regression.ipynb
-.. _Documentationlr: docs/tutorials/2-basics_in_machine_learning/linear_regression
+.. _Documentationlr: https://www.machinelearningmindset.com/linear-regression-with-tensorflow/
 
 .. _Logistic Regression: codes/python/2-basics_in_machine_learning/logistic_regression
 .. _LogisticRegressionipython: codes//ipython/2-basics_in_machine_learning/logistic_regression/code/logistic_regression.ipynb
