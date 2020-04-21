@@ -40,7 +40,7 @@ Download Free TensorFlow Roadmap EBook
 
 .. raw:: html
 
- <a href="http://www.machinelearningmindset.com/tensorflow-roadmap-ebook/" target="_blank">
+ <a href="https://www.machinelearningmindset.com/slack-group/" target="_blank">
   <img width="710" height="500" align="center" src="https://github.com/machinelearningmindset/TensorFlow-Course/blob/master/_img/mainpage/booksubscribe.png"/>
  </a>
 
