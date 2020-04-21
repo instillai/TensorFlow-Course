@@ -49,7 +49,19 @@ Download Free TensorFlow Roadmap EBook
    </div>
    
    
+.. raw:: html
 
+   <div align="center">
+
+.. raw:: html
+
+ <a href="http://www.machinelearningmindset.com/tensorflow-roadmap-ebook/" target="_blank">
+  <img width="850" height="600" align="center" src="https://github.com/machinelearningmindset/TensorFlow-Course/blob/master/_img/0-welcome/joinslack.png"/>
+ </a>
+
+.. raw:: html
+
+   </div>
    
 
 
