@@ -48,6 +48,7 @@ Download Free TensorFlow Roadmap EBook
 
    </div>
 
+----------------------------------------------------------
 .. raw:: html
 
    <div align="center">
@@ -62,7 +63,7 @@ Download Free TensorFlow Roadmap EBook
 
    </div>
 
-
+----------------------------------------------------------
 
 ~~~~~~~~~~~~~~~~~~~~~
 What is TensorFlow?
