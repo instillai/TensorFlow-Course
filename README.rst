@@ -48,7 +48,10 @@ Download Free TensorFlow Roadmap EBook
 
    </div>
 
-----------------------------------------------------------
+==========================================
+Slack Group
+==========================================
+
 .. raw:: html
 
    <div align="center">
@@ -63,7 +66,7 @@ Download Free TensorFlow Roadmap EBook
 
    </div>
 
-----------------------------------------------------------
+
 
 ~~~~~~~~~~~~~~~~~~~~~
 What is TensorFlow?
