@@ -382,4 +382,5 @@ Developers
 <https://astorfi.github.io/>`_, `Linkedin
 <https://www.linkedin.com/in/amirsinatorfi/>`_ ]
 
-<https://github.com/sponsors/astorfi/dashboard>`_, `Sponsor Developer
+`Sponsor Developer
+<https://github.com/sponsors/astorfi/dashboard>`_
