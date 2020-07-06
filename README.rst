@@ -24,8 +24,10 @@ Each tutorial includes ``source code`` and most of them are associated with a ``
 
 
 ##########################################################################
-`Sponsor Developer <https://github.com/sponsors/astorfi/dashboard>`_
+Sponsorship
 ##########################################################################
+
+To support maintaining and upgrading this project, please consider `Sponsoring the project developer <https://github.com/sponsors/astorfi/dashboard>`_
 
 #################
 Table of Contents
