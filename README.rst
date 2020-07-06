@@ -23,10 +23,9 @@ Each tutorial includes ``source code`` and most of them are associated with a ``
 .. _Wikipedia: https://en.wikipedia.org/wiki/TensorFlow/
 
 
-============================================================================
-`Sponsor Developer
-<https://github.com/sponsors/astorfi/dashboard>`_
-============================================================================
+##########################################################################
+`Sponsor Developer <https://github.com/sponsors/astorfi/dashboard>`_
+##########################################################################
 
 #################
 Table of Contents
