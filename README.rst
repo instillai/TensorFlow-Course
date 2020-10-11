@@ -82,7 +82,6 @@ TensorFlow is an open-source software library for dataflow programming across a 
 
 TensorFlow was developed by the Google Brain team for internal Google use. It was released under the Apache 2.0 open source license on November 9, 2015.
 
-The current stable release as of September 27, 2018 is 1.11.0
 
 ============
 Motivation
