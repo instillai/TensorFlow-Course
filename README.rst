@@ -191,13 +191,19 @@ Basics
    :alt: alternate text
    :align: right
 
-+----+---------------------+----------------------------------------------------------------------------------------+----------------------------------------------+
-| #  |       topic         |   Source Code                                                                          |                                              |
-+====+=====================+========================================================================================+==============================================+
-| 2  | *TensorFLow Basics* | `Basic Math Operations <basicmathsourcecode_>`_   / `IPython <ipythonbasicmath_>`_     |  `Documentation <Documentationbasicmath_>`_  |
-+----+---------------------+----------------------------------------------------------------------------------------+----------------------------------------------+
-| 3  | *TensorFLow Basics* | `TensorFlow Variables <variablssourcecode_>`_   / `IPython <ipythonvariabls_>`_        |  `Documentation <Documentationvariabls_>`_   |
-+----+---------------------+----------------------------------------------------------------------------------------+----------------------------------------------+
+
+
+.. _ipythontensors: codes/ipython/1-basics/tensors.ipynb
+.. |Tensors| image:: https://colab.research.google.com/assets/colab-badge.svg
+  :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/0-welcome/welcome.ipynb
+
+
+
++----+---------------------+--------------------------+-------------------------------------------+
+| #  |       topic         |          Run             |  Source Code                              |
++====+=====================+==========================+===========================================+
+| 1  | Tensors            |       |Tensors|           | `Notebook <ipythontensors_>`_             |
++----+---------------------+--------------------------+-------------------------------------------+
 
 ==========================
 
