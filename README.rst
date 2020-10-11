@@ -162,11 +162,16 @@ Warm-up
    :alt: alternate text
    :align: right
 
-+----+---------------------+------------------------------------------------------+
-| #  |       topic         |   Source Code                                        |
-+====+=====================+======================================================+
-| 1  | Start-up            | `Notebook <ipythonwelcome_>`_                        |
-+----+---------------------+------------------------------------------------------+
+
+.. _colab: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/0-welcome/welcome.ipynb
+.. _Documentationcnnwelcome: docs/tutorials/0-welcome
+.. _ipythonwelcome: codes/ipython/0-welcome/welcome.ipynb
+
++----+---------------------+-----------------------------------------------------+
+| #  |       topic         |   Source Code                                       |
++====+=====================+=====================================================+
+| 1  | Start-up            | `Colab <colab_>`_  / `Notebook <ipythonwelcome_>`_  |
++----+---------------------+-----------------------------------------------------+
 
 ==========================
 
@@ -243,9 +248,7 @@ Neural Networks
 
 .. The tutorial in this section is just a simple entrance to TensorFlow.
 
-.. _welcomesourcecode: codes/python/0-welcome
-.. _Documentationcnnwelcome: docs/tutorials/0-welcome
-.. _ipythonwelcome: codes/ipython/0-welcome/welcome.ipynb
+
 
 
 
