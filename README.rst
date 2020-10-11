@@ -131,7 +131,7 @@ TensorFlow Installation and Setup the Environment
    :align: right
    :target: docs/tutorials/installation
 
-.. _TensorFlow Installation: docs/tutorials/installation
+.. _TensorFlow Installation: https://www.tensorflow.org/install
 
 In order to install TensorFlow please refer to the following link:
 
@@ -162,11 +162,11 @@ Warm-up
    :alt: alternate text
    :align: right
 
-+----+---------------------+----------------------------------------------------------------------------------------+----------------------------------------------+
-| #  |       topic         |   Source Code                                                                          |                                              |
-+====+=====================+========================================================================================+==============================================+
-| 1  | Start-up            | `Welcome <welcomesourcecode_>`_  / `IPython <ipythonwelcome_>`_                        |  `Documentation <Documentationcnnwelcome_>`_ |
-+----+---------------------+----------------------------------------------------------------------------------------+----------------------------------------------+
++----+---------------------+------------------------------------------------------+
+| #  |       topic         |   Source Code                                        |
++====+=====================+======================================================+
+| 1  | Start-up            | `Notebook <ipythonwelcome_>`_                        |
++----+---------------------+------------------------------------------------------+
 
 ==========================
 
@@ -245,7 +245,7 @@ Neural Networks
 
 .. _welcomesourcecode: codes/python/0-welcome
 .. _Documentationcnnwelcome: docs/tutorials/0-welcome
-.. _ipythonwelcome: codes/ipython/0-welcome/code/0-welcome.ipynb
+.. _ipythonwelcome: codes/ipython/0-welcome/welcome.ipynb
 
 
 
@@ -388,5 +388,3 @@ Developers
 <https://github.com/astorfi>`_, `Personal Website
 <https://astorfi.github.io/>`_, `Linkedin
 <https://www.linkedin.com/in/amirsinatorfi/>`_ ]
-
-
