@@ -167,6 +167,11 @@ Warm-up
 .. _Documentationcnnwelcome: docs/tutorials/0-welcome
 .. _ipythonwelcome: codes/ipython/0-welcome/welcome.ipynb
 
+|Open In Colab|
+
+.. |Open In Colab| image:: https://colab.research.google.com/assets/colab-badge.svg
+   :target: https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb
+
 +----+---------------------+-----------------------------------------------------+
 | #  |       topic         |   Source Code                                       |
 +====+=====================+=====================================================+
