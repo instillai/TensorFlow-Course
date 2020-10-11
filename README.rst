@@ -168,14 +168,14 @@ Warm-up
 .. _ipythonwelcome: codes/ipython/0-welcome/welcome.ipynb
 
 
-.. |Open In Colab| image:: https://colab.research.google.com/assets/colab-badge.svg
-   :target: https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb
+.. |Welcome| image:: https://colab.research.google.com/assets/colab-badge.svg
+   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/0-welcome/welcome.ipynb
 
 
 +----+---------------------+-----------------------------------------------------+
 | #  |       topic         |   Source Code                                       |
 +====+=====================+=====================================================+
-| 1  | Start-up            | |Open In Colab|    / `Notebook <ipythonwelcome_>`_  |
+| 1  | Start-up            | |Welcome|    / `Notebook <ipythonwelcome_>`_        |
 +----+---------------------+-----------------------------------------------------+
 
 ==========================
