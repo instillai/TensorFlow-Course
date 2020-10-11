@@ -195,7 +195,7 @@ Basics
 
 .. _ipythontensors: codes/ipython/1-basics/tensors.ipynb
 .. |Tensors| image:: https://colab.research.google.com/assets/colab-badge.svg
-  :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/0-welcome/welcome.ipynb
+  :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/basics/codes/ipython/1-basics/tensors.ipynb
 
 
 
