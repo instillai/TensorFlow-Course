@@ -413,6 +413,10 @@ your kind feedback and elaborate code inspections.
 Developers
 ========================
 
+
+**Company**: Instill AI [`Website
+<https://instillai.com/>`_]
+
 **Creator**: Machine Learning Mindset [`Blog
 <https://machinelearningmindset.com/blog/>`_, `GitHub
 <https://github.com/machinelearningmindset>`_, `Twitter
