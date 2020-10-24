@@ -28,6 +28,7 @@ Sponsorship
 ##########################################################################
 
 To support maintaining and upgrading this project, please consider `Sponsoring the project developer <https://github.com/sponsors/astorfi/dashboard>`_.
+
 **Status:** *This project is being updated to **TensorFlow 2.3**.*
 
 .. raw:: html
@@ -37,7 +38,7 @@ To support maintaining and upgrading this project, please consider `Sponsoring t
 .. raw:: html
 
  <a href="https://github.com/sponsors/astorfi/dashboard" target="_blank">
-  <img width="710" height="500" align="center" src="https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/donation.jpg"/>
+  <img width="600" height="500" align="center" src="https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/donation.jpg"/>
  </a>
 
 .. raw:: html
