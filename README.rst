@@ -82,7 +82,6 @@ TensorFlow is an open-source software library for dataflow programming across a 
 
 TensorFlow was developed by the Google Brain team for internal Google use. It was released under the Apache 2.0 open source license on November 9, 2015.
 
-The current stable release as of September 27, 2018 is 1.11.0
 
 ============
 Motivation
@@ -191,13 +190,24 @@ Basics
    :alt: alternate text
    :align: right
 
-+----+---------------------+----------------------------------------------------------------------------------------+----------------------------------------------+
-| #  |       topic         |   Source Code                                                                          |                                              |
-+====+=====================+========================================================================================+==============================================+
-| 2  | *TensorFLow Basics* | `Basic Math Operations <basicmathsourcecode_>`_   / `IPython <ipythonbasicmath_>`_     |  `Documentation <Documentationbasicmath_>`_  |
-+----+---------------------+----------------------------------------------------------------------------------------+----------------------------------------------+
-| 3  | *TensorFLow Basics* | `TensorFlow Variables <variablssourcecode_>`_   / `IPython <ipythonvariabls_>`_        |  `Documentation <Documentationvariabls_>`_   |
-+----+---------------------+----------------------------------------------------------------------------------------+----------------------------------------------+
+
+
+.. _ipythontensors: codes/ipython/1-basics/tensors.ipynb
+.. |Tensors| image:: https://colab.research.google.com/assets/colab-badge.svg
+  :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/basics/codes/ipython/1-basics/tensors.ipynb
+
+.. _ipythonad: codes/ipython/1-basics/automatic_differentiation.ipynb
+.. |AD| image:: https://colab.research.google.com/assets/colab-badge.svg
+  :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/basics/codes/ipython/1-basics/automatic_differentiation.ipynb
+
+
++----+-----------------------------------+--------------------------+-------------------------------------------+
+| #  |       topic                       |          Run             |  Source Code                              |
++====+===================================+==========================+===========================================+
+| 1  | Tensors                           |       |Tensors|          | `Notebook <ipythontensors_>`_             |
++----+-----------------------------------+--------------------------+-------------------------------------------+
+| 1  | Automatic Differentiation         |       |AD|               | `Notebook <ipythonad_>`_                  |
++----+-----------------------------------+--------------------------+-------------------------------------------+
 
 ==========================
 
