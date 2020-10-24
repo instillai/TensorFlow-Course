@@ -28,6 +28,7 @@ Sponsorship
 ##########################################################################
 
 To support maintaining and upgrading this project, please consider `Sponsoring the project developer <https://github.com/sponsors/astorfi/dashboard>`_.
+**Status:** *This project is being updated to **TensorFlow 2.3**.*
 
 .. raw:: html
 
