@@ -196,13 +196,18 @@ Basics
 .. |Tensors| image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/basics/codes/ipython/1-basics/tensors.ipynb
 
+  .. _ipythonad: codes/ipython/1-basics/automatic_differentiation.ipynb
+  .. |AD| image:: https://colab.research.google.com/assets/colab-badge.svg
+    :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/basics/codes/ipython/1-basics/automatic_differentiation.ipynb
 
 
-+----+---------------------+--------------------------+-------------------------------------------+
-| #  |       topic         |          Run             |  Source Code                              |
-+====+=====================+==========================+===========================================+
-| 1  | Tensors             |       |Tensors|          | `Notebook <ipythontensors_>`_             |
-+----+---------------------+--------------------------+-------------------------------------------+
++----+-----------------------------------+--------------------------+-------------------------------------------+
+| #  |       topic                       |          Run             |  Source Code                              |
++====+===================================+==========================+===========================================+
+| 1  | Tensors                           |       |Tensors|          | `Notebook <ipythontensors_>`_             |
++----+-----------------------------------+--------------------------+-------------------------------------------+
+| 1  | Automatic Differentiation         |       |AD|               | `Notebook <ipythonad_>`_                  |
++----+-----------------------------------+--------------------------+-------------------------------------------+
 
 ==========================
 
