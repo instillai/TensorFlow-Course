@@ -29,6 +29,20 @@ Sponsorship
 
 To support maintaining and upgrading this project, please consider `Sponsoring the project developer <https://github.com/sponsors/astorfi/dashboard>`_.
 
+.. raw:: html
+
+   <div align="center">
+
+.. raw:: html
+
+ <a href="https://github.com/sponsors/astorfi/dashboard" target="_blank">
+  <img width="710" height="500" align="center" src="https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/donation.jpg"/>
+ </a>
+
+.. raw:: html
+
+   </div>
+
 #################
 Table of Contents
 #################
