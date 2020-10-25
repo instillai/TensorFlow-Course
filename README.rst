@@ -218,13 +218,21 @@ Basics
 .. |AD| image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/basics/codes/ipython/1-basics/automatic_differentiation.ipynb
 
+.. _ipythongraphs: codes/ipython/1-basics/graph.ipynb
+.. |graphs| image:: https://colab.research.google.com/assets/colab-badge.svg
+  :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/1-basics/graph.ipynb
+
+
+
 
 +----+-----------------------------------+--------------------------+-------------------------------------------+
 | #  |       topic                       |          Run             |  Source Code                              |
 +====+===================================+==========================+===========================================+
 | 1  | Tensors                           |       |Tensors|          | `Notebook <ipythontensors_>`_             |
 +----+-----------------------------------+--------------------------+-------------------------------------------+
-| 1  | Automatic Differentiation         |       |AD|               | `Notebook <ipythonad_>`_                  |
+| 2  | Automatic Differentiation         |       |AD|               | `Notebook <ipythonad_>`_                  |
++----+-----------------------------------+--------------------------+-------------------------------------------+
+| 3  | Introduction to Graphs            |       |graphs|           | `Notebook <ipythongraphs_>`_              |
 +----+-----------------------------------+--------------------------+-------------------------------------------+
 
 ==========================
