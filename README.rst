@@ -259,6 +259,7 @@ Basic Machine Learning
 .. |lr| image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/basics_in_machine_learning/linearRegressionOneVariable.ipynb
 
+`Notebook <ipythonlinearreg_>`_
 
  +----+-----------------------------------+--------------------------+-------------------------------------------+
  | #  |       topic                       |          Run             |  Source Code                              |
