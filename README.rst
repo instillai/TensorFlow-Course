@@ -223,6 +223,14 @@ Basics
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/1-basics/graph.ipynb
 
 
+.. _ipythonmodels: codes/ipython/1-basics/models.ipynb
+.. |models| image:: https://colab.research.google.com/assets/colab-badge.svg
+  :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/1-basics/models.ipynb
+
+
+
+
+
 
 
 +----+-----------------------------------+--------------------------+-------------------------------------------+
@@ -233,6 +241,8 @@ Basics
 | 2  | Automatic Differentiation         |       |AD|               | `Notebook <ipythonad_>`_                  |
 +----+-----------------------------------+--------------------------+-------------------------------------------+
 | 3  | Introduction to Graphs            |       |graphs|           | `Notebook <ipythongraphs_>`_              |
++----+-----------------------------------+--------------------------+-------------------------------------------+
+| 4  | TensorFlow Models                 |       |models|           | `Notebook <ipythonmodels_>`_              |
 +----+-----------------------------------+--------------------------+-------------------------------------------+
 
 ==========================
