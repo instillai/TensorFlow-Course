@@ -257,15 +257,21 @@ Basic Machine Learning
 
 .. _ipythonlinearreg: codes/ipython/basics_in_machine_learning/linearRegressionOneVariable.ipynb
 .. _tutoriallinearreg: https://www.machinelearningmindset.com/linear-regression-with-tensorflow/
+.. _ipythonimageclassification: codes/ipython/basics_in_machine_learning/linearRegressionOneVariable.ipynb
+
 .. |lr| image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/basics_in_machine_learning/linearRegressionOneVariable.ipynb
+.. |ic| image:: https://colab.research.google.com/assets/colab-badge.svg
+  :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/basics_in_machine_learning/ImageClassification.ipynb
 
 
-+----+-----------------------------------+--------------------------+-------------------------------------------+-------------------------------------------+
-| #  |       topic                       |          Run             |  Source Code                              |  More                                     |
-+====+===================================+==========================+===========================================+===========================================+
-| 1  | Linear Regression                 |       |lr|               | `Notebook <ipythonlinearreg_>`_           | `Tutorial <tutoriallinearreg_>`_          |
-+----+-----------------------------------+--------------------------+-------------------------------------------+-------------------------------------------+
++----+-----------------------------------+--------------------------+-----------------------------------------------+-------------------------------------------+
+| #  |       topic                       |          Run             |  Source Code                                  |  More                                     |
++====+===================================+==========================+===============================================+===========================================+
+| 1  | Linear Regression                 |       |lr|               | `Notebook <ipythonlinearreg_>`_               | `Tutorial <tutoriallinearreg_>`_          |
++----+-----------------------------------+--------------------------+-----------------------------------------------+-------------------------------------------+
+| 1  | Image Classification              |       |ic|               | `Notebook <ipythonimageclassification_>`_     |                                           |
++----+-----------------------------------+--------------------------+-----------------------------------------------+-------------------------------------------+
 
 
  .. _tutoriallinearreg: https://www.machinelearningmindset.com/linear-regression-with-tensorflow/
