@@ -204,7 +204,7 @@ Basics
 
 .. raw:: html
 
-   <div align="center">
+   <div align="left">
 
 .. raw:: html
 
@@ -265,7 +265,7 @@ Basic Machine Learning
 
 .. raw:: html
 
-   <div align="center">
+   <div align="left">
 
 .. raw:: html
 
@@ -323,7 +323,7 @@ Neural Networks
 
 .. raw:: html
 
-   <div align="center">
+   <div align="left">
 
 .. raw:: html
 
