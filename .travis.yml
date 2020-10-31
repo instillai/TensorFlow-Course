@@ -1,6 +1,10 @@
-sudo: false
-dist: trusty
+sudo: required
 language: python
+cache: pip
+git:
+  depth: 3
+  quiet: true
+
 python: # The following versions
   - "3.6"
 # command to install dependencies
