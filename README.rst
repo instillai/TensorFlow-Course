@@ -444,6 +444,7 @@ Pull Request Process
 Please consider the following criterions in order to help us in a better way:
 
   * The pull request is mainly expected to be a code script suggestion or improvement.
+  * Please do NOT change the ipython files. Instead, change the corresponsing PYTHON files.
   * A pull request related to non-code-script sections is expected to make a significant difference in the documentation. Otherwise, it is expected to be announced in the issues section.
   * Ensure any install or build dependencies are removed before the end of the layer when doing a build and creating a pull request.
   * Add comments with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
