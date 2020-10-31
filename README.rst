@@ -260,8 +260,8 @@ Basic Machine Learning
    :align: right
 
 
-.. _ipythonlinearreg: codes/ipython/basics_in_machine_learning/linearRegressionOneVariable.ipynb
-.. _pythonlinearreg: codes/python/basics_in_machine_learning/linearregressiononevariable.py
+.. _ipythonlinearreg: codes/ipython/basics_in_machine_learning/linearregression.ipynb
+.. _pythonlinearreg: codes/python/basics_in_machine_learning/linearregression.py
 .. _tutoriallinearreg: https://www.machinelearningmindset.com/linear-regression-with-tensorflow/
 
 .. _tutorialdataaugmentation: https://www.machinelearningmindset.com/data-augmentation-with-tensorflow/
