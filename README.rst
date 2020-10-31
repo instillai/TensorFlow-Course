@@ -3,10 +3,10 @@
 ********************
 `TensorFlow Course`_
 ********************
-.. image:: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
-    :target: https://github.com/open-source-for-science/TensorFlow-Course/pulls
 .. image:: https://travis-ci.org/instillai/TensorFlow-Course.svg?branch=master
     :target: https://travis-ci.org/instillai/TensorFlow-Course
+.. image:: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
+    :target: https://github.com/open-source-for-science/TensorFlow-Course/pulls
 .. image:: https://img.shields.io/twitter/follow/machinemindset.svg?label=Follow&style=social
     :target: https://twitter.com/machinemindset
 .. image:: https://zenodo.org/badge/151300862.svg
