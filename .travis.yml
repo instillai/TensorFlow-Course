@@ -31,8 +31,13 @@ install:
 script:
   # You can run all python files in parallel, http://stackoverflow.com/questions/5015316
   # - find codes/python/ -type f -name "*.py" |xargs -n 1 python
-  # get list of changed files
+  # get list of changed files and if they are Python files, run them.
   - CHANGED_FILES=($(git diff --name-only $TRAVIS_COMMIT_RANGE))
   - echo $CHANGED_FILES
-  - for file in $CHANGED_FILES; do
-    python $file;
+  - for file in "$CHANGED_FILES"; do
+      if [ "$file" == "*.py" ]
+      then
+         python $file;
+      fi
+      fi
+    done;
