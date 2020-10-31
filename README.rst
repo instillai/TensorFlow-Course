@@ -341,9 +341,9 @@ Advanced
 
    </div>
 
- .. raw:: html
+.. raw:: html
 
-      <br>
+    <br>
 
 
 .. _ipythoncustomtr: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/advanced/custom_training.ipynb
