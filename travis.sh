@@ -8,6 +8,6 @@ for file in $CHANGED_FILES; do
     if [ ${file: -3} == ".py" ]; then
         python $file;
     else
-        echo "$file is a directory"
+        echo "$file is not a Python file, so, it won't be checked!"
     fi
 done

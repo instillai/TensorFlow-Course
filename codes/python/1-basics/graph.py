@@ -116,6 +116,6 @@ print("Shallow Model - Eager execution time:", timeit.timeit(lambda: model_shall
 print("Shallow Model - Graph-based execution time:", timeit.timeit(lambda: model_shallow_on_graph(sample_input), number=1000))
 
 # Check time for deep model
-print("Deep Model - Eager execution time:", timeit.timeit(lambda: model_deep_with_eager(sample_input), number=1000))
-print("Deep Model - Graph-based execution time:", timeit.timeit(lambda: model_deep_on_graph(sample_input), number=1000))
+print("Deep Model - Eager execution time:", timeit.timeit(lambda: model_deep_with_eager(sample_input), number=100))
+print("Deep Model - Graph-based execution time:", timeit.timeit(lambda: model_deep_on_graph(sample_input), number=100))
 
