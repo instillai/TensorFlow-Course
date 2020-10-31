@@ -321,100 +321,38 @@ Neural Networks
 | 2  |  *Convolutional Neural Networks*         |       |cnn|              | `Notebook <ipythoncnn_>`_ / `Python <pythoncnn_>`_   |
 +----+------------------------------------------+--------------------------+------------------------------------------------------+
 
+==========================
 
-.. ~~~~~~~~~~~~
-.. **Welcome**
-.. ~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
+Advanced
+~~~~~~~~~~~~~~~~
 
-.. The tutorial in this section is just a simple entrance to TensorFlow.
-
-
-
-
-
-.. +---+---------------------------------------------+-------------------------------------------------+
-.. | # |          Source Code                        |                                                 |
-.. +===+=============================================+=================================================+
-.. | 1 |    `Welcome <welcomesourcecode_>`_          |  `Documentation <Documentationcnnwelcome_>`_    |
-.. +---+---------------------------------------------+-------------------------------------------------+
-
-.. ~~~~~~~~~~
-.. **Basics**
-.. ~~~~~~~~~~
-.. These tutorials are related to basics of TensorFlow.
-
-.. _basicmathsourcecode: codes/python/1-basics/basic_math_operations
-.. _Documentationbasicmath: docs/tutorials/1-basics/basic_math_operations
-.. _ipythonbasicmath: codes/ipython/1-basics/basic_math_operations/code/basic_math_operation.ipynb
-
-.. _ipythonvariabls: codes/ipython/1-basics/variables/code/variables.ipynb
-.. _variablssourcecode: codes/python/1-basics/variables/README.rst
-.. _Documentationvariabls: docs/tutorials/1-basics/variables
+.. image:: _img/mainpage/CNNs.png
+   :height: 100px
+   :width: 200 px
+   :scale: 50 %
+   :alt: alternate text
+   :align: right
 
 
-.. +---+-----------------------------------------------------+-------------------------------------------------+
-.. | # |          Source Code                                |                                                 |
-.. +===+=====================================================+=================================================+
-.. | 1 |    `Basic Math Operations <basicmathsourcecode_>`_  |  `Documentation <Documentationbasicmath_>`_     |
-.. +---+-----------------------------------------------------+-------------------------------------------------+
-.. | 2 |    `TensorFlow Variables <variablssourcecode_>`_    |  `Documentation <Documentationvariabls_>`_      |
-.. +---+-----------------------------------------------------+-------------------------------------------------+
-
-.. ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-.. **Machine Learning Basics**
-.. ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-.. We are going to present concepts of basic machine learning models and methods and show how to implement them in Tensorflow.
-
-.. _Linear Regression: codes/python/2-basics_in_machine_learning/linear_regression
-.. _LinearRegressionipython: codes/ipython/2-basics_in_machine_learning/linear_regression/code/linear_regression.ipynb
-.. _Documentationlr: https://www.machinelearningmindset.com/linear-regression-with-tensorflow/
-
-.. _Logistic Regression: codes/python/2-basics_in_machine_learning/logistic_regression
-.. _LogisticRegressionipython: codes//ipython/2-basics_in_machine_learning/logistic_regression/code/logistic_regression.ipynb
-.. _LogisticRegDOC: docs/tutorials/2-basics_in_machine_learning/logistic_regression
-
-.. _Linear SVM: codes/python/2-basics_in_machine_learning/linear_svm
-.. _LinearSVMipython: codes//ipython/2-basics_in_machine_learning/linear_svm/code/linear_svm.ipynb
+.. _ipythoncustomtr: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/advanced/custom_training.ipynb
+.. _pythoncustomtr: https://github.com/instillai/TensorFlow-Course/blob/master/codes/python/advanced/custom_training.py
 
 
-.. _MultiClass Kernel SVM: codes/python/2-basics_in_machine_learning/multiclass_svm
-.. _MultiClassKernelSVMipython: codes/ipython/2-basics_in_machine_learning/multiclass_svm/code/multiclass_svm.ipynb
+
+.. |ctraining| image:: https://colab.research.google.com/assets/colab-badge.svg
+ :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/neural_networks/mlp.ipynb
 
 
-.. +---+---------------------------------------------+----------------------------------------+
-.. | # |          Source Code                        |                                        |
-.. +===+=============================================+========================================+
-.. | 1 |    `Linear Regression`_                     |  `Documentation <Documentationlr_>`_   |
-.. +---+---------------------------------------------+----------------------------------------+
-.. | 2 |    `Logistic Regression`_                   |  `Documentation <LogisticRegDOC_>`_    |
-.. +---+---------------------------------------------+----------------------------------------+
-.. | 3 |    `Linear SVM`_                            |                                        |
-.. +---+---------------------------------------------+----------------------------------------+
-.. | 4 |    `MultiClass Kernel SVM`_                 |                                        |
-.. +---+---------------------------------------------+----------------------------------------+
-
-.. ~~~~~~~~~~~~~~~~~~~
-.. **Neural Networks**
-.. ~~~~~~~~~~~~~~~~~~~
-.. The tutorials in this section are related to neural network architectures.
-
-.. _Simple Convolutional Neural Networks: codes/python/3-neural_networks/convolutional-neural-network
-.. _Documentationcnn: docs/tutorials/3-neural_network/convolutiona_neural_network
-
-.. _Simple Multi Layer Perceptron: codes/python/3-neural_networks/multi-layer-perceptron
-.. _MultiLayerPerceptronipython: codes/ipython/3-neural_networks/multi-layer-perceptron/code/train_mlp.ipynb
-
-.. _RNN: codes/python/3-neural_networks/recurrent-neural-networks/code/rnn.py
-.. _RNNIpython: codes/ipython/3-neural_networks/recurrent-neural-networks/code/rnn.ipynb
++----+------------------------------------------+--------------------------+----------------------------------------------------------------+
+| #  |       topic                              |          Run             |  Source Code                                                   |
++====+==========================================+==========================+================================================================+
+| 1  |  *Custom Training*                       |       |ctraining|        | `Notebook <ipythoncustomtr_>`_ / `Python <pythoncustomtr_>`_   |
++----+------------------------------------------+--------------------------+----------------------------------------------------------------+
 
 
-.. +---+---------------------------------------------+----------------------------------------+
-.. | # |          Source Code                        |                                        |
-.. +===+=============================================+========================================+
-.. | 1 |    `Multi Layer Perceptron`_                |                                        |
-.. +---+---------------------------------------------+----------------------------------------+
-.. | 2 |    `Convolutional Neural Networks`_         |  `Documentation <Documentationcnn_>`_  |
-.. +---+---------------------------------------------+----------------------------------------+
+
+
 
 
 =====================
