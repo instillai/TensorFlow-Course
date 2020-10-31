@@ -32,4 +32,4 @@ script:
   # You can run all python files in parallel, http://stackoverflow.com/questions/5015316
   # - find codes/python/ -type f -name "*.py" |xargs -n 1 python
   # get list of changed files and if they are Python files, run them.
-  - travis.sh
+  - ./travis.sh
