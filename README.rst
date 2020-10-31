@@ -301,10 +301,10 @@ Neural Networks
 
 
 .. _ipythonmlp: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/neural_networks/mlp.ipynb
-.. _pythonmlp: https://github.com/instillai/TensorFlow-Course/blob/master/codes/python/neural_networks/mlp.ipynb
+.. _pythonmlp: https://github.com/instillai/TensorFlow-Course/blob/master/codes/python/neural_networks/mlp.py
 
 .. _ipythoncnn: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/neural_networks/CNNs.ipynb
-.. _pythoncnn: https://github.com/instillai/TensorFlow-Course/blob/master/codes/python/neural_networks/CNNs.ipynb
+.. _pythoncnn: https://github.com/instillai/TensorFlow-Course/blob/master/codes/python/neural_networks/CNNs.py
 
 
 .. |mlp| image:: https://colab.research.google.com/assets/colab-badge.svg
