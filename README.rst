@@ -202,12 +202,23 @@ Warm-up
 Basics
 ~~~~~~
 
-.. image:: _img/mainpage/basics.gif
-   :height: 100px
-   :width: 200 px
-   :scale: 50 %
-   :alt: alternate text
-   :align: right
+.. raw:: html
+
+   <div align="center">
+
+.. raw:: html
+
+ <a href="https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/basics.gif" target="_blank">
+  <img width="250" height="250" align="center" src="https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/basics.gif"/>
+ </a>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <br>
 
 
 
@@ -259,12 +270,16 @@ Basic Machine Learning
 .. raw:: html
 
  <a href="https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/basicmodels.gif" target="_blank">
-  <img width="200" height="200" align="center" src="https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/basicmodels.gif"/>
+  <img width="250" height="250" align="center" src="https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/basicmodels.gif"/>
  </a>
 
 .. raw:: html
 
    </div>
+
+.. raw:: html
+
+   <br>
 
 .. .. image:: _img/mainpage/basicmodels.gif
 ..    :height: 100px
