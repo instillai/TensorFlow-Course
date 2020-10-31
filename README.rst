@@ -257,12 +257,10 @@ Basic Machine Learning
 
 .. _ipythonlinearreg: codes/ipython/basics_in_machine_learning/linearRegressionOneVariable.ipynb
 .. _tutoriallinearreg: https://www.machinelearningmindset.com/linear-regression-with-tensorflow/
-.. _ipythonimageclassification: codes/ipython/basics_in_machine_learning/linearRegressionOneVariable.ipynb
 
 .. |lr| image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/basics_in_machine_learning/linearRegressionOneVariable.ipynb
-.. |ic| image:: https://colab.research.google.com/assets/colab-badge.svg
-  :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/basics_in_machine_learning/ImageClassification.ipynb
+
 
 
 +----+-----------------------------------+--------------------------+-----------------------------------------------+-------------------------------------------+
@@ -270,22 +268,9 @@ Basic Machine Learning
 +====+===================================+==========================+===============================================+===========================================+
 | 1  | Linear Regression                 |       |lr|               | `Notebook <ipythonlinearreg_>`_               | `Tutorial <tutoriallinearreg_>`_          |
 +----+-----------------------------------+--------------------------+-----------------------------------------------+-------------------------------------------+
-| 1  | Image Classification              |       |ic|               | `Notebook <ipythonimageclassification_>`_     |                                           |
-+----+-----------------------------------+--------------------------+-----------------------------------------------+-------------------------------------------+
 
 
- .. _tutoriallinearreg: https://www.machinelearningmindset.com/linear-regression-with-tensorflow/
 
-.. +----+----------------------------+----------------------------------------------------------------------------------------+----------------------------------------------+
-.. | #  |       topic                |   Source Code                                                                          |                                              |
-.. +====+============================+========================================================================================+==============================================+
-.. | 4  | *Linear Models*            |`Linear Regression`_  / `IPython <LinearRegressionipython_>`_                           | `Tutorial      <Documentationlr_>`_          |
-.. +----+----------------------------+----------------------------------------------------------------------------------------+----------------------------------------------+
-.. | 5  | *Predictive Models*        | `Logistic Regression`_  / `IPython <LogisticRegressionipython_>`_                      | `Documentation <LogisticRegDOC_>`_           |
-.. +----+----------------------------+----------------------------------------------------------------------------------------+----------------------------------------------+
-.. | 6  | *Support Vector Machines*  | `Linear SVM`_  / `IPython <LinearSVMipython_>`_                                        |                                              |
-.. +----+----------------------------+----------------------------------------------------------------------------------------+----------------------------------------------+
-.. | 7  | *Support Vector Machines*  |`MultiClass Kernel SVM`_  / `IPython <MultiClassKernelSVMipython_>`_                    |                                              |
 .. +----+----------------------------+----------------------------------------------------------------------------------------+----------------------------------------------+
 
 ==========================
@@ -301,15 +286,20 @@ Neural Networks
    :alt: alternate text
    :align: right
 
-+----+-----------------------------------+-----------------------------------------------------------------------------------------------+----------------------------------------------+
-| #  |       topic                       |   Source Code                                                                                 |                                              |
-+====+===================================+===============================================================================================+==============================================+
-| 8  | *Multi Layer Perceptron*          |`Simple Multi Layer Perceptron`_   / `IPython <MultiLayerPerceptronipython_>`_                 |                                              |
-+----+-----------------------------------+-----------------------------------------------------------------------------------------------+----------------------------------------------+
-| 9  | *Convolutional Neural Network*    | `Simple Convolutional Neural Networks`_                                                       |       `Documentation <Documentationcnn_>`_   |
-+----+-----------------------------------+-----------------------------------------------------------------------------------------------+----------------------------------------------+
-| 10 | *Recurrent Neural Network*        | `RNN`_  / `IPython <RNNIpython_>`_                                                            |                                              |
-+----+-----------------------------------+-----------------------------------------------------------------------------------------------+----------------------------------------------+
+
+.. _ipythonmlp: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/neural_networks/mlp.ipynb
+
+
+.. |mlp| image:: https://colab.research.google.com/assets/colab-badge.svg
+ :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/basics_in_machine_learning/ImageClassification.ipynb
+
+
++----+-----------------------------------+--------------------------+-----------------------------------------------+
+| #  |       topic                       |          Run             |  Source Code                                  |
++====+===================================+==========================+===============================================+
+| 1  |  *Multi Layer Perceptron*         |       |mlp|              | `Notebook <ipythonmlp_>`_                     |
++----+-----------------------------------+--------------------------+-----------------------------------------------+
+
 
 .. ~~~~~~~~~~~~
 .. **Welcome**
