@@ -21,5 +21,5 @@ install:
       pip install https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow_cpu-2.3.0-cp36-cp36m-manylinux2010_x86_64.whl;
     fi
 script:
-  # run all python files in parallel, http://stackoverflow.com/questions/5015316
-  - find codes/python/ -type f -name "*.py" |xargs -n 1 -P 3 python
+  # You can run all python files in parallel, http://stackoverflow.com/questions/5015316
+  - find codes/python/ -type f -name "*.py" |xargs python
