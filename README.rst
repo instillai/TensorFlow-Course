@@ -301,7 +301,10 @@ Neural Networks
 
 
 .. _ipythonmlp: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/neural_networks/mlp.ipynb
+.. _pythonmlp: https://github.com/instillai/TensorFlow-Course/blob/master/codes/python/neural_networks/mlp.ipynb
+
 .. _ipythoncnn: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/neural_networks/CNNs.ipynb
+.. _pythoncnn: https://github.com/instillai/TensorFlow-Course/blob/master/codes/python/neural_networks/CNNs.ipynb
 
 
 .. |mlp| image:: https://colab.research.google.com/assets/colab-badge.svg
@@ -310,13 +313,13 @@ Neural Networks
  :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/neural_networks/CNNs.ipynb
 
 
-+----+------------------------------------------+--------------------------+-----------------------------------------------+
-| #  |       topic                              |          Run             |  Source Code                                  |
-+====+==========================================+==========================+===============================================+
-| 1  |  *Multi Layer Perceptron*                |       |mlp|              | `Notebook <ipythonmlp_>`_                     |
-+----+------------------------------------------+--------------------------+-----------------------------------------------+
-| 2  |  *Convolutional Neural Networks*         |       |cnn|              | `Notebook <ipythoncnn_>`_                     |
-+----+------------------------------------------+--------------------------+-----------------------------------------------+
++----+------------------------------------------+--------------------------+-----------------------------------------------------+
+| #  |       topic                              |          Run             |  Source Code                                        |
++====+==========================================+==========================+=====================================================+
+| 1  |  *Multi Layer Perceptron*                |       |mlp|              | `Notebook <ipythonmlp_>`_ / `Python <pythonmlp_>`_   |
++----+------------------------------------------+--------------------------+-----------------------------------------------------+
+| 2  |  *Convolutional Neural Networks*         |       |cnn|              | `Notebook <ipythoncnn_>`_ / `Python <pythoncnn_>`_   |
++----+------------------------------------------+--------------------------+-----------------------------------------------------+
 
 
 .. ~~~~~~~~~~~~
