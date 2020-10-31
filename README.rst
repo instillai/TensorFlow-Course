@@ -217,18 +217,18 @@ Basics
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/1-basics/tensors.ipynb
 
 .. _ipythonad: codes/ipython/1-basics/automatic_differentiation.ipynb
-.. _pythonad: codes/ipython/1-basics/automatic_differentiation.py
+.. _pythonad: codes/python/1-basics/automatic_differentiation.py
 .. |AD| image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/1-basics/automatic_differentiation.ipynb
 
 .. _ipythongraphs: codes/ipython/1-basics/graph.ipynb
-.. _pythongraphs: codes/ipython/1-basics/graph.py
+.. _pythongraphs: codes/python/1-basics/graph.py
 .. |graphs| image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/1-basics/graph.ipynb
 
 
 .. _ipythonmodels: codes/ipython/1-basics/models.ipynb
-.. _pythonmodels: codes/ipython/1-basics/models.py
+.. _pythonmodels: codes/python/1-basics/models.py
 .. |models| image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/1-basics/models.ipynb
 
