@@ -183,17 +183,18 @@ Warm-up
 .. _colab: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/0-welcome/welcome.ipynb
 .. _Documentationcnnwelcome: docs/tutorials/0-welcome
 .. _ipythonwelcome: codes/ipython/0-welcome/welcome.ipynb
+.. _pythonwelcome: https://github.com/instillai/TensorFlow-Course/blob/master/codes/python/0-welcome/welcome.py
 
 
 .. |Welcome| image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/0-welcome/welcome.ipynb
 
 
-+----+---------------------+--------------------------+-------------------------------------------+
-| #  |       topic         |          Run             |  Source Code                              |
-+====+=====================+==========================+===========================================+
-| 1  | Start-up            |       |Welcome|          | `Notebook <ipythonwelcome_>`_             |
-+----+---------------------+--------------------------+-------------------------------------------+
++----+---------------------+--------------------------+------------------------------------------------------------------------+
+| #  |       topic         |          Run             |  Source Code                                                           |
++====+=====================+==========================+========================================================================+
+| 1  | Start-up            |       |Welcome|          | `Notebook <ipythonwelcome_>`_  / `Python <pythonwelcome_>`_            |
++----+---------------------+--------------------------+------------------------------------------------------------------------+
 
 ==========================
 
@@ -257,6 +258,7 @@ Basic Machine Learning
 
 .. _ipythonlinearreg: codes/ipython/basics_in_machine_learning/linearRegressionOneVariable.ipynb
 .. _tutoriallinearreg: https://www.machinelearningmindset.com/linear-regression-with-tensorflow/
+
 .. _tutorialdataaugmentation: https://www.machinelearningmindset.com/data-augmentation-with-tensorflow/
 .. _ipythondataaugmentation: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/basics_in_machine_learning/dataaugmentation.ipynb
 
