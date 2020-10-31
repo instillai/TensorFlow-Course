@@ -2,7 +2,7 @@ sudo: required
 language: python
 cache: pip
 git:
-  depth: 3
+  depth: false
   quiet: true
 
 python: # The following versions
@@ -11,6 +11,9 @@ python: # The following versions
 install:
   - pip install numpy
   - pip install matplotlib
+  - pip install pandas
+  - pip install seaborn
+  - pip install pathlib
   # install TensorFlow from https://storage.googleapis.com/tensorflow/
   - if [[ "$TRAVIS_PYTHON_VERSION" == "3.5" ]]; then
       pip install https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow_cpu-2.3.0-cp35-cp35m-manylinux2010_x86_64.whl;
