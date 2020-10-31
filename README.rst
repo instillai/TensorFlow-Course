@@ -269,7 +269,7 @@ Basic Machine Learning
 .. _pythondataaugmentation: https://github.com/instillai/TensorFlow-Course/blob/master/codes/python/basics_in_machine_learning/dataaugmentation.py
 
 .. |lr| image:: https://colab.research.google.com/assets/colab-badge.svg
-  :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/basics_in_machine_learning/linearRegressionOneVariable.ipynb
+  :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/basics_in_machine_learning/linearregression.ipynb
 .. |da| image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/basics_in_machine_learning/dataaugmentation.ipynb
 
