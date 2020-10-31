@@ -9,9 +9,9 @@ python: # The following versions
   - "3.6"
 # command to install dependencies
 
-only:
-  changes:
-   - codes/*
+before_script: cd codes
+before_install: cd codes
+
 
 install:
   - pip install numpy
@@ -28,4 +28,11 @@ install:
     fi
 script:
   # You can run all python files in parallel, http://stackoverflow.com/questions/5015316
-  - find codes/python/ -type f -name "*.py" |xargs -n 1 python
+  # - find codes/python/ -type f -name "*.py" |xargs -n 1 python
+  script:
+  # get list of changed files
+  - CHANGED_FILES=($(git diff --name-only $TRAVIS_COMMIT_RANGE))
+  # save names of any changed folders (docker containers) to file folders.txt
+  - echo $CHANGED_FILES
+  - for file in $CHANGED_FILES; do
+    python $file;
