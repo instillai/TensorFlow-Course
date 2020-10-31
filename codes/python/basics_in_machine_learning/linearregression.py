@@ -83,12 +83,6 @@ def linear_model():
 # Create model instant
 model = linear_model()
 
-# Model plot
-tf.keras.utils.plot_model(
-  model, to_file='model.png', show_shapes=True, show_layer_names=True,
-  rankdir='TB', expand_nested=False, dpi=100
-  )
-
 # Print the model summary
 model.summary()
 
@@ -220,4 +214,3 @@ if model_improvement_progress:
     # Plot the line
     y_hat = w1*x + w0
     plt.plot(x, y_hat, '-r')
-    plt.savefig(os.path.join('/content/drive/linearregression', str(checkpoint)+'.png'))

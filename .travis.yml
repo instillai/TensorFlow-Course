@@ -8,12 +8,18 @@ git:
 python: # The following versions
   - "3.6"
 # command to install dependencies
+
+only:
+  changes:
+   - codes/*
+
 install:
   - pip install numpy
   - pip install matplotlib
   - pip install pandas
   - pip install seaborn
   - pip install pathlib
+  - pip install tensorflow_datasets
   # install TensorFlow from https://storage.googleapis.com/tensorflow/
   - if [[ "$TRAVIS_PYTHON_VERSION" == "3.5" ]]; then
       pip install https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow_cpu-2.3.0-cp35-cp35m-manylinux2010_x86_64.whl;
