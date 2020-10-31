@@ -288,17 +288,22 @@ Neural Networks
 
 
 .. _ipythonmlp: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/neural_networks/mlp.ipynb
+.. _ipythoncnn: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/neural_networks/CNNs.ipynb
 
 
 .. |mlp| image:: https://colab.research.google.com/assets/colab-badge.svg
- :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/basics_in_machine_learning/ImageClassification.ipynb
+ :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/neural_networks/mlp.ipynb
+.. |cnn| image:: https://colab.research.google.com/assets/colab-badge.svg
+ :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/neural_networks/CNNs.ipynb
 
 
-+----+-----------------------------------+--------------------------+-----------------------------------------------+
-| #  |       topic                       |          Run             |  Source Code                                  |
-+====+===================================+==========================+===============================================+
-| 1  |  *Multi Layer Perceptron*         |       |mlp|              | `Notebook <ipythonmlp_>`_                     |
-+----+-----------------------------------+--------------------------+-----------------------------------------------+
++----+------------------------------------------+--------------------------+-----------------------------------------------+
+| #  |       topic                              |          Run             |  Source Code                                  |
++====+==========================================+==========================+===============================================+
+| 1  |  *Multi Layer Perceptron*                |       |mlp|              | `Notebook <ipythonmlp_>`_                     |
++----+------------------------------------------+--------------------------+-----------------------------------------------+
+| 2  |  *Convolutional Neural Networks*         |       |cnn|              | `Notebook <ipythoncnn_>`_                     |
++----+------------------------------------------+--------------------------+-----------------------------------------------+
 
 
 .. ~~~~~~~~~~~~
