@@ -9,9 +9,11 @@ python: # The following versions
   - "3.6"
 # command to install dependencies
 
-before_script: cd codes
-before_install: cd codes
-
+build:
+  stage: build
+  only:
+    - paths:
+      - "^codes/*"
 
 install:
   - pip install numpy
