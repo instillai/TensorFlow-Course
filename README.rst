@@ -327,12 +327,19 @@ Neural Networks
 Advanced
 ~~~~~~~~~~~~~~~~
 
-.. image:: _img/mainpage/Build.png
-   :height: 100px
-   :width: 200 px
-   :scale: 50 %
-   :alt: alternate text
-   :align: right
+.. raw:: html
+
+   <div align="left">
+
+.. raw:: html
+
+ <a href="https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/Build.png" target="_blank">
+  <img width="180" height="180" align="left" src="https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/Build.png"/>
+ </a>
+
+.. raw:: html
+
+   </div>
 
 
 .. _ipythoncustomtr: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/advanced/custom_training.ipynb
