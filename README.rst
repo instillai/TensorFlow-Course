@@ -261,7 +261,7 @@ Basic Machine Learning
 
 
 .. _ipythonlinearreg: codes/ipython/basics_in_machine_learning/linearRegressionOneVariable.ipynb
-.. _pythonlinearreg: codes/python/basics_in_machine_learning/linearRegressionOneVariable.py
+.. _pythonlinearreg: codes/python/basics_in_machine_learning/linearregressiononevariable.py
 .. _tutoriallinearreg: https://www.machinelearningmindset.com/linear-regression-with-tensorflow/
 
 .. _tutorialdataaugmentation: https://www.machinelearningmindset.com/data-augmentation-with-tensorflow/
