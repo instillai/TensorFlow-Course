@@ -22,4 +22,4 @@ install:
     fi
 script:
   # You can run all python files in parallel, http://stackoverflow.com/questions/5015316
-  - find codes/python/ -type f -name "*.py" |xargs python
+  - find codes/python/ -type f -name "*.py" |xargs -n 1 python
