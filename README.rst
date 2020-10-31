@@ -327,12 +327,12 @@ Neural Networks
 
 .. raw:: html
 
-   <div align="left">
+   <div align="center">
 
 .. raw:: html
 
  <a href="https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/Build.png" target="_blank">
-  <img width="180" height="180" align="left" src="https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/Build.png"/>
+  <img width="180" height="180" align="center" src="https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/Build.png"/>
  </a>
 
 .. raw:: html
