@@ -341,7 +341,7 @@ Advanced
 
 
 .. |ctraining| image:: https://colab.research.google.com/assets/colab-badge.svg
- :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/neural_networks/mlp.ipynb
+ :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/advanced/custom_training.ipynb
 
 
 +----+------------------------------------------+--------------------------+----------------------------------------------------------------+
