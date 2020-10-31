@@ -1,0 +1,25 @@
+sudo: required
+dist: trusty
+language: python
+python: # Only two versions for now
+  - "3.5"
+  - "3.6"
+  - "3.7"
+  - "3.8"
+# command to install dependencies
+install:
+  - pip install numpy
+  - pip install matplotlib
+  # install TensorFlow from https://storage.googleapis.com/tensorflow/
+  - if [[ "$TRAVIS_PYTHON_VERSION" == "3.5" ]]; then
+      pip install https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow_cpu-2.3.0-cp35-cp35m-manylinux2010_x86_64.whl;
+    elif [[ "$TRAVIS_PYTHON_VERSION" == "3.6" ]]; then
+      pip install https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow_cpu-2.3.0-cp36-cp36m-manylinux2010_x86_64.whl;
+    elif [[ "$TRAVIS_PYTHON_VERSION" == "3.7" ]]; then
+      pip install https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow_cpu-2.3.0-cp37-cp37m-manylinux2010_x86_64.whl;
+    elif [[ "$TRAVIS_PYTHON_VERSION" == "3.8" ]]; then
+      pip install https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow_cpu-2.3.0-cp38-cp38-manylinux2010_x86_64.whl;
+    fi
+script:
+  # run all python files in parallel, http://stackoverflow.com/questions/5015316
+  - ls ??_*.py|xargs -n 1 -P 3 python
