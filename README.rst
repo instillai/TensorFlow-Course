@@ -292,12 +292,23 @@ Basic Machine Learning
 Neural Networks
 ~~~~~~~~~~~~~~~~
 
-.. image:: _img/mainpage/CNNs.png
-   :height: 100px
-   :width: 200 px
-   :scale: 50 %
-   :alt: alternate text
-   :align: right
+.. raw:: html
+
+   <div align="center">
+
+.. raw:: html
+
+ <a href="https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/CNNs.png" target="_blank">
+  <img width="600" height="180" align="center" src="https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/CNNs.png"/>
+ </a>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+    <br>
 
 
 .. _ipythonmlp: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/neural_networks/mlp.ipynb
@@ -323,6 +334,9 @@ Neural Networks
 
 ==========================
 
+~~~~~~~~~~~~~~~~
+Advanced
+~~~~~~~~~~~~~~~~
 
 
 .. raw:: html
@@ -343,9 +357,7 @@ Neural Networks
 
     <br>
 
-~~~~~~~~~~~~~~~~
-Advanced
-~~~~~~~~~~~~~~~~
+
 
 
 .. _ipythoncustomtr: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/advanced/custom_training.ipynb
