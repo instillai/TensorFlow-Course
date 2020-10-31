@@ -16,4 +16,4 @@ install:
     fi
 script:
   # run all python files in parallel, http://stackoverflow.com/questions/5015316
-  - ls ??_*.py|xargs -n 1 -P 3 python
+  - find codes/python/ -type f -name "*.py" |xargs -n 1 -P 3 python
