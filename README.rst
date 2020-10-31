@@ -327,7 +327,7 @@ Neural Networks
 Advanced
 ~~~~~~~~~~~~~~~~
 
-.. image:: _img/mainpage/CNNs.png
+.. image:: _img/mainpage/build.png
    :height: 100px
    :width: 200 px
    :scale: 50 %
