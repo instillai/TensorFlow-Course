@@ -323,9 +323,7 @@ Neural Networks
 
 ==========================
 
-~~~~~~~~~~~~~~~~
-Advanced
-~~~~~~~~~~~~~~~~
+
 
 .. raw:: html
 
@@ -344,6 +342,10 @@ Advanced
 .. raw:: html
 
     <br>
+
+~~~~~~~~~~~~~~~~
+Advanced
+~~~~~~~~~~~~~~~~
 
 
 .. _ipythoncustomtr: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/advanced/custom_training.ipynb
