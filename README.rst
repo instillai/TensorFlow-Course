@@ -225,38 +225,42 @@ Basics
 
 .. _ipythontensors: codes/ipython/1-basics/tensors.ipynb
 .. _pythontensors: codes/python/1-basics/tensors.py
+.. _videotensors: https://youtu.be/Od-VvnYUbFw
 .. |Tensors| image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/1-basics/tensors.ipynb
 
 .. _ipythonad: codes/ipython/1-basics/automatic_differentiation.ipynb
 .. _pythonad: codes/python/1-basics/automatic_differentiation.py
+.. _videoad: https://youtu.be/l-MGydWW-UE
 .. |AD| image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/1-basics/automatic_differentiation.ipynb
 
 .. _ipythongraphs: codes/ipython/1-basics/graph.ipynb
 .. _pythongraphs: codes/python/1-basics/graph.py
+.. _videographs: https://youtu.be/P9xA1s6AUNk
 .. |graphs| image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/1-basics/graph.ipynb
 
 
 .. _ipythonmodels: codes/ipython/1-basics/models.ipynb
 .. _pythonmodels: codes/python/1-basics/models.py
+.. _videomodels: https://youtu.be/WnlUE04REOY
 .. |models| image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/1-basics/models.ipynb
 
 
 
-+----+-----------------------------------+--------------------------+------------------------------------------------------------------------+
-| #  |       topic                       |          Run             |  Source Code                                                           |
-+====+===================================+==========================+========================================================================+
-| 1  | Tensors                           |       |Tensors|          | `Notebook <ipythontensors_>`_  / `Python <pythontensors_>`_            |
-+----+-----------------------------------+--------------------------+------------------------------------------------------------------------+
-| 2  | Automatic Differentiation         |       |AD|               | `Notebook <ipythonad_>`_  / `Python <pythonad_>`_                      |
-+----+-----------------------------------+--------------------------+------------------------------------------------------------------------+
-| 3  | Introduction to Graphs            |       |graphs|           | `Notebook <ipythongraphs_>`_ / `Python <pythongraphs_>`_               |
-+----+-----------------------------------+--------------------------+------------------------------------------------------------------------+
-| 4  | TensorFlow Models                 |       |models|           | `Notebook <ipythonmodels_>`_  / `Python <pythonmodels_>`_              |
-+----+-----------------------------------+--------------------------+------------------------------------------------------------------------+
++----+-----------------------------------+--------------------------+------------------------------------------------------------------------+-----------------------------------------+
+| #  |       topic                       |          Run             |  Source Code                                                           |                                         |
++====+===================================+==========================+========================================================================+=========================================+
+| 1  | Tensors                           |       |Tensors|          | `Notebook <ipythontensors_>`_  / `Python <pythontensors_>`_            | `Video Tutorial <videotensors_>`_       |
++----+-----------------------------------+--------------------------+------------------------------------------------------------------------+-----------------------------------------+
+| 2  | Automatic Differentiation         |       |AD|               | `Notebook <ipythonad_>`_  / `Python <pythonad_>`_                      | `Video Tutorial <videoad_>`_            |
++----+-----------------------------------+--------------------------+------------------------------------------------------------------------+-----------------------------------------+
+| 3  | Introduction to Graphs            |       |graphs|           | `Notebook <ipythongraphs_>`_ / `Python <pythongraphs_>`_               | `Video Tutorial <videographs_>`_        |
++----+-----------------------------------+--------------------------+------------------------------------------------------------------------+-----------------------------------------+
+| 4  | TensorFlow Models                 |       |models|           | `Notebook <ipythonmodels_>`_  / `Python <pythonmodels_>`_              | `Video Tutorial <videomodels_>`_        |
++----+-----------------------------------+--------------------------+------------------------------------------------------------------------+-----------------------------------------+
 
 ==========================
 
