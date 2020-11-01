@@ -428,7 +428,7 @@ Advanced
 +----+------------------------------------------+--------------------------+--------------------------------------------------------------------+----------------------------------------+
 | 2  |  *Dataset Generator*                     |       |dgenerator|       | `Notebook <ipythondgenerator_>`_ / `Python <pythondgenerator_>`_   | `Video Tutorial <videodgenerator_>`_   |
 +----+------------------------------------------+--------------------------+--------------------------------------------------------------------+----------------------------------------+
-| 2  |  *Create TFRecords*                      |       |tfrecords|        | `Notebook <ipythontfrecords_>`_ / `Python <pythontfrecords_>`_     | `Video Tutorial <videotfrecords_>`_   |
+| 2  |  *Create TFRecords*                      |       |tfrecords|        | `Notebook <ipythontfrecords_>`_ / `Python <pythontfrecords_>`_     | `Video Tutorial <videotfrecords_>`_    |
 +----+------------------------------------------+--------------------------+--------------------------------------------------------------------+----------------------------------------+
 
 
