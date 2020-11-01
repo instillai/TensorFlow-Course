@@ -406,12 +406,19 @@ Advanced
 .. _pythondgenerator: https://github.com/instillai/TensorFlow-Course/blob/master/codes/python/advanced/dataset_generator.py
 .. _videodgenerator: https://youtu.be/-YsgMdDPu3g
 
+.. _ipythontfrecords: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/advanced/tfrecords.ipynb
+.. _pythontfrecords: https://github.com/instillai/TensorFlow-Course/blob/master/codes/python/advanced/tfrecords.py
+.. _videotfrecords: https://youtu.be/zqavy_5QMk8
+
 
 .. |ctraining| image:: https://colab.research.google.com/assets/colab-badge.svg
  :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/advanced/custom_training.ipynb
 
 .. |dgenerator| image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/advanced/dataset_generator.ipynb
+
+.. |dgenerator| image:: https://colab.research.google.com/assets/colab-badge.svg
+  :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/advanced/tfrecords.ipynb
 
 
 +----+------------------------------------------+--------------------------+--------------------------------------------------------------------+----------------------------------------+
@@ -420,6 +427,8 @@ Advanced
 | 1  |  *Custom Training*                       |       |ctraining|        | `Notebook <ipythoncustomtr_>`_ / `Python <pythoncustomtr_>`_       | `Video Tutorial <videocustomtr_>`_     |
 +----+------------------------------------------+--------------------------+--------------------------------------------------------------------+----------------------------------------+
 | 2  |  *Dataset Generator*                     |       |dgenerator|       | `Notebook <ipythondgenerator_>`_ / `Python <pythondgenerator_>`_   | `Video Tutorial <videodgenerator_>`_   |
++----+------------------------------------------+--------------------------+--------------------------------------------------------------------+----------------------------------------+
+| 2  |  *Create TFRecords*                      |       |tfrecords|        | `Notebook <ipythontfrecords_>`_ / `Python <pythontfrecords_>`_     | `Video Tutorial <videotfrecords_>`_   |
 +----+------------------------------------------+--------------------------+--------------------------------------------------------------------+----------------------------------------+
 
 
