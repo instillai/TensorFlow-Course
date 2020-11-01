@@ -297,12 +297,12 @@ Basic Machine Learning
 .. _ipythonlinearreg: codes/ipython/basics_in_machine_learning/linearregression.ipynb
 .. _pythonlinearreg: codes/python/basics_in_machine_learning/linearregression.py
 .. _tutoriallinearreg: https://www.machinelearningmindset.com/linear-regression-with-tensorflow/
-.. _videoinearreg: https://www.machinelearningmindset.com/linear-regression-with-tensorflow/
+.. _videoinearreg: https://youtu.be/2RTBBiKKuLI
 
 .. _tutorialdataaugmentation: https://www.machinelearningmindset.com/data-augmentation-with-tensorflow/
 .. _ipythondataaugmentation: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/basics_in_machine_learning/dataaugmentation.ipynb
 .. _pythondataaugmentation: https://github.com/instillai/TensorFlow-Course/blob/master/codes/python/basics_in_machine_learning/dataaugmentation.py
-.. _videodataaugmentation: https://www.machinelearningmindset.com/data-augmentation-with-tensorflow/
+.. _videodataaugmentation: https://youtu.be/HbzR2snHJF0
 
 .. |lr| image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/basics_in_machine_learning/linearregression.ipynb
