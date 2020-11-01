@@ -184,17 +184,18 @@ Warm-up
 .. _Documentationcnnwelcome: docs/tutorials/0-welcome
 .. _ipythonwelcome: codes/ipython/0-welcome/welcome.ipynb
 .. _pythonwelcome: https://github.com/instillai/TensorFlow-Course/blob/master/codes/python/0-welcome/welcome.py
+.. _videowelcome: https://youtu.be/xd0DVygHlNE
 
 
 .. |Welcome| image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/0-welcome/welcome.ipynb
 
 
-+----+---------------------+--------------------------+------------------------------------------------------------------------+
-| #  |       topic         |          Run             |  Source Code                                                           |
-+====+=====================+==========================+========================================================================+
-| 1  | Start-up            |       |Welcome|          | `Notebook <ipythonwelcome_>`_  / `Python <pythonwelcome_>`_            |
-+----+---------------------+--------------------------+------------------------------------------------------------------------+
++----+---------------------+--------------------------+------------------------------------------------------------------------+--------------------------------------+
+| #  |       topic         |          Run             |  Source Code                                                           |                                      |
++====+=====================+==========================+========================================================================+======================================+
+| 1  | Start-up            |       |Welcome|          | `Notebook <ipythonwelcome_>`_  / `Python <pythonwelcome_>`_            | `Video Tutorial <videowelcome_>`_    |
++----+---------------------+--------------------------+------------------------------------------------------------------------+--------------------------------------+
 
 ==========================
 
