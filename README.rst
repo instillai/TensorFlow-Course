@@ -191,15 +191,15 @@ Warm-up
 .. |Welcome| image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/0-welcome/welcome.ipynb
 
-.. |videowelcome| image:: https://colab.research.google.com/assets/colab-badge.svg
-  :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/0-welcome/welcome.ipynb
+.. |videowelcome| image:: https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/yt_logo_pms_light.eps
+  :target: https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/yt_logo_pms_light.eps
 
 
 
 +----+---------------------+--------------------------+------------------------------------------------------------------------+--------------------------------------+
 | #  |       topic         |          Run             |  Source Code                                                           |        Media                         |
 +====+=====================+==========================+========================================================================+======================================+
-| 1  | Start-up            |       |Welcome|          | `Notebook <ipythonwelcome_>`_  / `Python <pythonwelcome_>`_            | `Video Tutorial <videowelcome_>`_    |
+| 1  | Start-up            |       |Welcome|          | `Notebook <ipythonwelcome_>`_  / `Python <pythonwelcome_>`_            | |videowelcome|                       |
 +----+---------------------+--------------------------+------------------------------------------------------------------------+--------------------------------------+
 
 ==========================
