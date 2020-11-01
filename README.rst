@@ -392,17 +392,24 @@ Advanced
 .. _ipythoncustomtr: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/advanced/custom_training.ipynb
 .. _pythoncustomtr: https://github.com/instillai/TensorFlow-Course/blob/master/codes/python/advanced/custom_training.py
 
+.. _ipythondgenerator: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/advanced/dataset_generator.ipynb
+.. _pythondgenerator: https://github.com/instillai/TensorFlow-Course/blob/master/codes/python/advanced/dataset_generator.py
 
 
 .. |ctraining| image:: https://colab.research.google.com/assets/colab-badge.svg
  :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/advanced/custom_training.ipynb
 
+.. |dgenerator| image:: https://colab.research.google.com/assets/colab-badge.svg
+  :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/advanced/dataset_generator.ipynb
 
-+----+------------------------------------------+--------------------------+----------------------------------------------------------------+
-| #  |       topic                              |          Run             |  Source Code                                                   |
-+====+==========================================+==========================+================================================================+
-| 1  |  *Custom Training*                       |       |ctraining|        | `Notebook <ipythoncustomtr_>`_ / `Python <pythoncustomtr_>`_   |
-+----+------------------------------------------+--------------------------+----------------------------------------------------------------+
+
++----+------------------------------------------+--------------------------+--------------------------------------------------------------------+
+| #  |       topic                              |          Run             |  Source Code                                                       |
++====+==========================================+==========================+====================================================================+
+| 1  |  *Custom Training*                       |       |ctraining|        | `Notebook <ipythoncustomtr_>`_ / `Python <pythoncustomtr_>`_       |
++----+------------------------------------------+--------------------------+--------------------------------------------------------------------+
+| 2  |  *Dataset Generator*                     |       |dgenerator|       | `Notebook <ipythondgenerator_>`_ / `Python <pythondgenerator_>`_   |
++----+------------------------------------------+--------------------------+--------------------------------------------------------------------+
 
 
 
