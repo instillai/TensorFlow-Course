@@ -297,10 +297,12 @@ Basic Machine Learning
 .. _ipythonlinearreg: codes/ipython/basics_in_machine_learning/linearregression.ipynb
 .. _pythonlinearreg: codes/python/basics_in_machine_learning/linearregression.py
 .. _tutoriallinearreg: https://www.machinelearningmindset.com/linear-regression-with-tensorflow/
+.. _videoinearreg: https://www.machinelearningmindset.com/linear-regression-with-tensorflow/
 
 .. _tutorialdataaugmentation: https://www.machinelearningmindset.com/data-augmentation-with-tensorflow/
 .. _ipythondataaugmentation: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/basics_in_machine_learning/dataaugmentation.ipynb
 .. _pythondataaugmentation: https://github.com/instillai/TensorFlow-Course/blob/master/codes/python/basics_in_machine_learning/dataaugmentation.py
+.. _videodataaugmentation: https://www.machinelearningmindset.com/data-augmentation-with-tensorflow/
 
 .. |lr| image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/basics_in_machine_learning/linearregression.ipynb
@@ -308,13 +310,13 @@ Basic Machine Learning
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/basics_in_machine_learning/dataaugmentation.ipynb
 
 
-+----+-----------------------------------+--------------------------+------------------------------------------------------------------------------------+----------------------------------------------+
-| #  |       topic                       |          Run             |  Source Code                                                                       |  More                                        |
-+====+===================================+==========================+====================================================================================+==============================================+
-| 1  | Linear Regression                 |       |lr|               | `Notebook <ipythonlinearreg_>`_  / `Python <pythonlinearreg_>`_                    | `Tutorial <tutoriallinearreg_>`_             |
-+----+-----------------------------------+--------------------------+------------------------------------------------------------------------------------+----------------------------------------------+
-| 2  | Data Augmentation                 |       |da|               | `Notebook <ipythondataaugmentation_>`_ / `Python <pythondataaugmentation_>`_       | `Tutorial <tutorialdataaugmentation_>`_      |
-+----+-----------------------------------+--------------------------+------------------------------------------------------------------------------------+----------------------------------------------+
++----+-----------------------------------+--------------------------+------------------------------------------------------------------------------------+----------------------------------------------+----------------------------------------------+
+| #  |       topic                       |          Run             |  Source Code                                                                       |  More                                        |           Media                              |
++====+===================================+==========================+====================================================================================+==============================================+==============================================+
+| 1  | Linear Regression                 |       |lr|               | `Notebook <ipythonlinearreg_>`_  / `Python <pythonlinearreg_>`_                    | `Tutorial <tutoriallinearreg_>`_             | `Video Tutorial <videoinearreg_>`_           |
++----+-----------------------------------+--------------------------+------------------------------------------------------------------------------------+----------------------------------------------+----------------------------------------------+
+| 2  | Data Augmentation                 |       |da|               | `Notebook <ipythondataaugmentation_>`_ / `Python <pythondataaugmentation_>`_       | `Tutorial <tutorialdataaugmentation_>`_      | `Video Tutorial <videodataaugmentation_>`_   |
++----+-----------------------------------+--------------------------+------------------------------------------------------------------------------------+----------------------------------------------+----------------------------------------------+
 
 
 
