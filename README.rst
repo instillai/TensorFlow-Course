@@ -140,6 +140,7 @@ It is worth noting that, **the main goal of this project is to provide well-docu
 TensorFlow Installation and Setup the Environment
 =================================================
 
+
 .. image:: _img/mainpage/installation-logo.gif
    :height: 100px
    :width: 200 px
@@ -189,6 +190,10 @@ Warm-up
 
 .. |Welcome| image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/0-welcome/welcome.ipynb
+
+.. |videowelcome| image:: https://colab.research.google.com/assets/colab-badge.svg
+  :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/0-welcome/welcome.ipynb
+
 
 
 +----+---------------------+--------------------------+------------------------------------------------------------------------+--------------------------------------+
