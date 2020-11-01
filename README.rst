@@ -417,7 +417,7 @@ Advanced
 .. |dgenerator| image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/advanced/dataset_generator.ipynb
 
-.. |dgenerator| image:: https://colab.research.google.com/assets/colab-badge.svg
+.. |tfrecords| image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/advanced/tfrecords.ipynb
 
 
