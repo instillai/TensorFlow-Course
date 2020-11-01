@@ -191,7 +191,7 @@ Warm-up
 .. |Welcome| image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/0-welcome/welcome.ipynb
 
-.. |videowelcome| image:: https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/yt_logo_rgb_light.png
+.. |videowelcome| image:: _img/mainpage/yt_logo_rgb_light.png
   :target: https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/yt_logo_rgb_light.png
 
 
