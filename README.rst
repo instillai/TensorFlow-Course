@@ -194,8 +194,6 @@ Warm-up
 .. |youtubeim| image:: _img/mainpage/YouTube.png
   :target: https://github.com/instillai/TensorFlow-Course/blob/master/_img/mainpage/YouTube.png
 
-|youtubeim|
-
 
 +----+---------------------+--------------------------+------------------------------------------------------------------------+-------------------------------------------+
 | #  |       topic         |          Run             |  Source Code                                                           |  Media                                    |
