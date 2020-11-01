@@ -192,7 +192,7 @@ Warm-up
 
 
 +----+---------------------+--------------------------+------------------------------------------------------------------------+--------------------------------------+
-| #  |       topic         |          Run             |  Source Code                                                           |                                      |
+| #  |       topic         |          Run             |  Source Code                                                           |        Media                         |
 +====+=====================+==========================+========================================================================+======================================+
 | 1  | Start-up            |       |Welcome|          | `Notebook <ipythonwelcome_>`_  / `Python <pythonwelcome_>`_            | `Video Tutorial <videowelcome_>`_    |
 +----+---------------------+--------------------------+------------------------------------------------------------------------+--------------------------------------+
@@ -251,7 +251,7 @@ Basics
 
 
 +----+-----------------------------------+--------------------------+------------------------------------------------------------------------+-----------------------------------------+
-| #  |       topic                       |          Run             |  Source Code                                                           |                                         |
+| #  |       topic                       |          Run             |  Source Code                                                           |        Media                            |
 +====+===================================+==========================+========================================================================+=========================================+
 | 1  | Tensors                           |       |Tensors|          | `Notebook <ipythontensors_>`_  / `Python <pythontensors_>`_            | `Video Tutorial <videotensors_>`_       |
 +----+-----------------------------------+--------------------------+------------------------------------------------------------------------+-----------------------------------------+
@@ -347,9 +347,11 @@ Neural Networks
 
 .. _ipythonmlp: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/neural_networks/mlp.ipynb
 .. _pythonmlp: https://github.com/instillai/TensorFlow-Course/blob/master/codes/python/neural_networks/mlp.py
+.. _videomlp: https://youtu.be/w20efZqSK2Y
 
 .. _ipythoncnn: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/neural_networks/CNNs.ipynb
 .. _pythoncnn: https://github.com/instillai/TensorFlow-Course/blob/master/codes/python/neural_networks/cnns.py
+.. _videocnn: https://youtu.be/WVifZBCRz8g
 
 
 .. |mlp| image:: https://colab.research.google.com/assets/colab-badge.svg
@@ -358,13 +360,13 @@ Neural Networks
  :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/neural_networks/CNNs.ipynb
 
 
-+----+------------------------------------------+--------------------------+------------------------------------------------------+
-| #  |       topic                              |          Run             |  Source Code                                         |
-+====+==========================================+==========================+======================================================+
-| 1  |  *Multi Layer Perceptron*                |       |mlp|              | `Notebook <ipythonmlp_>`_ / `Python <pythonmlp_>`_   |
-+----+------------------------------------------+--------------------------+------------------------------------------------------+
-| 2  |  *Convolutional Neural Networks*         |       |cnn|              | `Notebook <ipythoncnn_>`_ / `Python <pythoncnn_>`_   |
-+----+------------------------------------------+--------------------------+------------------------------------------------------+
++----+------------------------------------------+--------------------------+------------------------------------------------------+------------------------------------+
+| #  |       topic                              |          Run             |  Source Code                                         |            Media                   |
++====+==========================================+==========================+======================================================+====================================+
+| 1  |  *Multi Layer Perceptron*                |       |mlp|              | `Notebook <ipythonmlp_>`_ / `Python <pythonmlp_>`_   | `Video Tutorial <videomlp_>`_      |
++----+------------------------------------------+--------------------------+------------------------------------------------------+------------------------------------+
+| 2  |  *Convolutional Neural Networks*         |       |cnn|              | `Notebook <ipythoncnn_>`_ / `Python <pythoncnn_>`_   | `Video Tutorial <videocnn_>`_      |
++----+------------------------------------------+--------------------------+------------------------------------------------------+------------------------------------+
 
 ==========================
 
@@ -396,9 +398,11 @@ Advanced
 
 .. _ipythoncustomtr: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/advanced/custom_training.ipynb
 .. _pythoncustomtr: https://github.com/instillai/TensorFlow-Course/blob/master/codes/python/advanced/custom_training.py
+.. _videocustomtr: https://youtu.be/z5gcabfyPfA
 
 .. _ipythondgenerator: https://github.com/instillai/TensorFlow-Course/blob/master/codes/ipython/advanced/dataset_generator.ipynb
 .. _pythondgenerator: https://github.com/instillai/TensorFlow-Course/blob/master/codes/python/advanced/dataset_generator.py
+.. _videodgenerator: https://youtu.be/-YsgMdDPu3g
 
 
 .. |ctraining| image:: https://colab.research.google.com/assets/colab-badge.svg
@@ -408,16 +412,13 @@ Advanced
   :target: https://colab.research.google.com/github/instillai/TensorFlow-Course/blob/master/codes/ipython/advanced/dataset_generator.ipynb
 
 
-+----+------------------------------------------+--------------------------+--------------------------------------------------------------------+
-| #  |       topic                              |          Run             |  Source Code                                                       |
-+====+==========================================+==========================+====================================================================+
-| 1  |  *Custom Training*                       |       |ctraining|        | `Notebook <ipythoncustomtr_>`_ / `Python <pythoncustomtr_>`_       |
-+----+------------------------------------------+--------------------------+--------------------------------------------------------------------+
-| 2  |  *Dataset Generator*                     |       |dgenerator|       | `Notebook <ipythondgenerator_>`_ / `Python <pythondgenerator_>`_   |
-+----+------------------------------------------+--------------------------+--------------------------------------------------------------------+
-
-
-
++----+------------------------------------------+--------------------------+--------------------------------------------------------------------+----------------------------------------+
+| #  |       topic                              |          Run             |  Source Code                                                       |           Media                        |
++====+==========================================+==========================+====================================================================+========================================+
+| 1  |  *Custom Training*                       |       |ctraining|        | `Notebook <ipythoncustomtr_>`_ / `Python <pythoncustomtr_>`_       | `Video Tutorial <videocustomtr_>`_     |
++----+------------------------------------------+--------------------------+--------------------------------------------------------------------+----------------------------------------+
+| 2  |  *Dataset Generator*                     |       |dgenerator|       | `Notebook <ipythondgenerator_>`_ / `Python <pythondgenerator_>`_   | `Video Tutorial <videodgenerator_>`_   |
++----+------------------------------------------+--------------------------+--------------------------------------------------------------------+----------------------------------------+
 
 
 
