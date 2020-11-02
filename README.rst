@@ -157,7 +157,7 @@ In order to install TensorFlow please refer to the following link:
 
 
 .. image:: _img/mainpage/installation.gif
-    :target: https://www.youtube.com/watch?v=_3JFEPk4qQY&t=2s
+    :target: https://www.tensorflow.org/install
 
 The virtual environment installation is recommended in order to prevent package conflict and having the capacity to customize the working environment.
 
