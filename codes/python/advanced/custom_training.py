@@ -7,7 +7,7 @@ import numpy as np
 x_train = x_train / 255.0
 x_test = x_test / 255.0
 
-# Add one domention to make 3D images
+# Add one dimension to make 3D images
 x_train = x_train[...,tf.newaxis]
 x_test = x_test[...,tf.newaxis]
 
