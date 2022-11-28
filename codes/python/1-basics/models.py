@@ -86,7 +86,7 @@ class CustomModel(tf.keras.Model):
 
   def call(self, inputs):
     x = self.layer_1(inputs)
-    out = self.layer_2(inputs)
+    out = self.layer_2(x)
     return out
 
 # Create model
